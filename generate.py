@@ -51,4 +51,7 @@ for repo in repos:
         continue
 
 # Return our final skeleton
-print(json.dumps(meta, indent=4, sort_keys=True))
+f = open("modules.json", "w")
+f.write(json.dumps(meta, indent=4, sort_keys=True)
+f.close()
+
