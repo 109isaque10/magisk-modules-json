@@ -755,10 +755,10 @@
         },
         {
             "id": "xmlpak",
-            "last_update": 1668401264000,
+            "last_update": 1668682830000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/module.prop",
-            "stars": 98,
+            "stars": 99,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip"
         },
         {
