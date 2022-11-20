@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1668678916000,
+            "last_update": 1668958060000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 554,
+            "stars": 555,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -659,10 +659,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1668213839000,
+            "last_update": 1668960953000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 174,
+            "stars": 175,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
