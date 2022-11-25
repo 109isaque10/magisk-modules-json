@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1669315022000,
+            "last_update": 1669399140000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 239,
+            "stars": 240,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -227,10 +227,10 @@
         },
         {
             "id": "disable-screenshot-camera-sounds",
-            "last_update": 1666379849000,
+            "last_update": 1669399208000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/archive/master.zip"
         },
         {
@@ -315,7 +315,7 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1669381410000,
+            "last_update": 1669399129000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/module.prop",
             "stars": 394,
