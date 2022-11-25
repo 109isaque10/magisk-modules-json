@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1669399140000,
+            "last_update": 1669401779000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 240,
+            "stars": 239,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -211,10 +211,10 @@
         },
         {
             "id": "Detach",
-            "last_update": 1669101769000,
+            "last_update": 1669401828000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/module.prop",
-            "stars": 170,
+            "stars": 171,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
         },
         {
@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1669232791000,
+            "last_update": 1669401500000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 230,
+            "stars": 229,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1669366587000,
+            "last_update": 1669400307000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1478,
+            "stars": 1479,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -435,10 +435,10 @@
         },
         {
             "id": "mtd-ndk",
-            "last_update": 1668380789000,
+            "last_update": 1669401731000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/module.prop",
-            "stars": 31,
+            "stars": 32,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip"
         },
         {
