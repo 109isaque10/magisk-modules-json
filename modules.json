@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1669529774000,
+            "last_update": 1669644509000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 231,
+            "stars": 232,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -731,10 +731,10 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1669364795000,
+            "last_update": 1669642623000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
-            "stars": 338,
+            "stars": 339,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip"
         },
         {
