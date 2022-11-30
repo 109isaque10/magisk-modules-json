@@ -27,7 +27,7 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1669675421000,
+            "last_update": 1669831519000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
             "stars": 242,
@@ -227,10 +227,10 @@
         },
         {
             "id": "disable-screenshot-camera-sounds",
-            "last_update": 1669399208000,
+            "last_update": 1669831539000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/module.prop",
-            "stars": 12,
+            "stars": 11,
             "zip_url": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/archive/master.zip"
         },
         {
@@ -315,10 +315,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1669827230000,
+            "last_update": 1669830600000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/module.prop",
-            "stars": 397,
+            "stars": 396,
             "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -755,10 +755,10 @@
         },
         {
             "id": "xmlpak",
-            "last_update": 1669053840000,
+            "last_update": 1669830317000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/module.prop",
-            "stars": 99,
+            "stars": 100,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip"
         },
         {
