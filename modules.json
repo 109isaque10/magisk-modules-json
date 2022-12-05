@@ -195,10 +195,10 @@
         },
         {
             "id": "com.piyushgarg.rclone",
-            "last_update": 1670096679000,
+            "last_update": 1670203822000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/module.prop",
-            "stars": 220,
+            "stars": 219,
             "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/master.zip"
         },
         {
@@ -315,10 +315,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1670148211000,
+            "last_update": 1670205243000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/module.prop",
-            "stars": 399,
+            "stars": 400,
             "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -683,10 +683,10 @@
         },
         {
             "id": "v2ray",
-            "last_update": 1669897357000,
+            "last_update": 1670207764000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/module.prop",
-            "stars": 273,
+            "stars": 274,
             "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip"
         },
         {
@@ -747,10 +747,10 @@
         },
         {
             "id": "wirelessFirmware",
-            "last_update": 1665317935000,
+            "last_update": 1670207487000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip"
         },
         {
