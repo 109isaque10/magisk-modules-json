@@ -43,10 +43,10 @@
         },
         {
             "id": "adreno-dev",
-            "last_update": 1669701983000,
+            "last_update": 1670683255000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/module.prop",
-            "stars": 57,
+            "stars": 58,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/master.zip"
         },
         {
@@ -659,10 +659,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1670510368000,
+            "last_update": 1670683287000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 182,
+            "stars": 183,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
