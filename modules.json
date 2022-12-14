@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1670852374000,
+            "last_update": 1671056949000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 567,
+            "stars": 568,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -467,10 +467,10 @@
         },
         {
             "id": "noneDisplayCutout",
-            "last_update": 1669533369000,
+            "last_update": 1671058381000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/noneDisplayCutout/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/noneDisplayCutout/master/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/archive/master.zip"
         },
         {
