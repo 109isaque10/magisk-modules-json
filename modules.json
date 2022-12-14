@@ -539,10 +539,10 @@
         },
         {
             "id": "quickstepswitcher",
-            "last_update": 1669870174000,
+            "last_update": 1671043978000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/quickstepswitcher/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/quickstepswitcher/master/module.prop",
-            "stars": 27,
+            "stars": 28,
             "zip_url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/master.zip"
         },
         {
