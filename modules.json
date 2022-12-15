@@ -747,7 +747,7 @@
         },
         {
             "id": "wirelessFirmware",
-            "last_update": 1670207487000,
+            "last_update": 1671120979000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/module.prop",
             "stars": 24,
