@@ -267,10 +267,10 @@
         },
         {
             "id": "foxy-boot",
-            "last_update": 1662168978000,
+            "last_update": 1671124279000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/foxy-boot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/foxy-boot/master/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Repo/foxy-boot/archive/master.zip"
         },
         {
