@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1671143275000,
+            "last_update": 1671272566000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 569,
+            "stars": 568,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -699,7 +699,7 @@
         },
         {
             "id": "ViPER4AndroidFX-Legacy",
-            "last_update": 1659906664000,
+            "last_update": 1671274491000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/master/module.prop",
             "stars": 29,
