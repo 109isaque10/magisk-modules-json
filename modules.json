@@ -315,10 +315,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1671091079000,
+            "last_update": 1671330328000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/module.prop",
-            "stars": 403,
+            "stars": 404,
             "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -683,10 +683,10 @@
         },
         {
             "id": "v2ray",
-            "last_update": 1671033762000,
+            "last_update": 1671328179000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/module.prop",
-            "stars": 277,
+            "stars": 278,
             "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip"
         },
         {
