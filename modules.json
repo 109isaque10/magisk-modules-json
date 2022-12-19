@@ -555,10 +555,10 @@
         },
         {
             "id": "riru_edxposed",
-            "last_update": 1670031060000,
+            "last_update": 1671442874000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/module.prop",
-            "stars": 62,
+            "stars": 63,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_edxposed/archive/master.zip"
         },
         {
@@ -627,10 +627,10 @@
         },
         {
             "id": "Systemless_TZData",
-            "last_update": 1670039766000,
+            "last_update": 1671443414000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/module.prop",
-            "stars": 19,
+            "stars": 20,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/master.zip"
         },
         {
