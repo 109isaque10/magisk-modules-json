@@ -475,10 +475,10 @@
         },
         {
             "id": "OneController",
-            "last_update": 1671624099000,
+            "last_update": 1671987310000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
-            "stars": 127,
+            "stars": 128,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip"
         },
         {
@@ -691,10 +691,10 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1671966680000,
+            "last_update": 1671987369000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 287,
+            "stars": 288,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
