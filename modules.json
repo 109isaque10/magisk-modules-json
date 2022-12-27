@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1671778535000,
+            "last_update": 1672145128000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 206,
+            "stars": 207,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1672025987000,
+            "last_update": 1672146561000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 357,
+            "stars": 358,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
