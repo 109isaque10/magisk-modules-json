@@ -147,18 +147,18 @@
         },
         {
             "id": "callrecorder-axet",
-            "last_update": 1668660456000,
+            "last_update": 1672426374000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-axet/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-axet/master/module.prop",
-            "stars": 55,
+            "stars": 54,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-axet/archive/master.zip"
         },
         {
             "id": "callrecorder-skvalex",
-            "last_update": 1671632176000,
+            "last_update": 1672426373000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/module.prop",
-            "stars": 201,
+            "stars": 200,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip"
         },
         {
@@ -755,10 +755,10 @@
         },
         {
             "id": "xmlpak",
-            "last_update": 1672054468000,
+            "last_update": 1672424177000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/module.prop",
-            "stars": 103,
+            "stars": 102,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip"
         },
         {
