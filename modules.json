@@ -258,6 +258,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/master.zip"
         },
         {
+            "id": "Fdroid-Priv",
+            "last_update": 1672370582000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/module.prop",
+            "stars": 100,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/master.zip"
+        },
+        {
             "id": "foxy-boot",
             "last_update": 1671124279000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/foxy-boot/master/README.md",
@@ -323,10 +331,10 @@
         },
         {
             "id": "KaliNethunter",
-            "last_update": 1672466103000,
+            "last_update": 1672611926000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/module.prop",
-            "stars": 149,
+            "stars": 150,
             "zip_url": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip"
         },
         {
