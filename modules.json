@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1672218028000,
+            "last_update": 1672539165000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 251,
+            "stars": 252,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -571,10 +571,10 @@
         },
         {
             "id": "riru_lsposed",
-            "last_update": 1672212034000,
+            "last_update": 1672540487000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_lsposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_lsposed/master/module.prop",
-            "stars": 179,
+            "stars": 180,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/master.zip"
         },
         {
@@ -651,10 +651,10 @@
         },
         {
             "id": "terminal_debloater",
-            "last_update": 1671863152000,
+            "last_update": 1672540328000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/module.prop",
-            "stars": 143,
+            "stars": 144,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_debloater/archive/master.zip"
         },
         {
