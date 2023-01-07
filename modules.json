@@ -75,10 +75,10 @@
         },
         {
             "id": "aml",
-            "last_update": 1673059551000,
+            "last_update": 1673087914000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/module.prop",
-            "stars": 31,
+            "stars": 32,
             "zip_url": "https://github.com/Magisk-Modules-Repo/aml/archive/master.zip"
         },
         {
