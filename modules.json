@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1673238645000,
+            "last_update": 1673241611000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 362,
+            "stars": 361,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
@@ -683,10 +683,10 @@
         },
         {
             "id": "v2ray",
-            "last_update": 1673092753000,
+            "last_update": 1673243381000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/module.prop",
-            "stars": 280,
+            "stars": 281,
             "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip"
         },
         {
