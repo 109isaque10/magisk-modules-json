@@ -571,10 +571,10 @@
         },
         {
             "id": "riru_lsposed",
-            "last_update": 1672843360000,
+            "last_update": 1673497020000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_lsposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_lsposed/master/module.prop",
-            "stars": 181,
+            "stars": 180,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/master.zip"
         },
         {
@@ -683,10 +683,10 @@
         },
         {
             "id": "v2ray",
-            "last_update": 1673285525000,
+            "last_update": 1673497023000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/module.prop",
-            "stars": 283,
+            "stars": 282,
             "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip"
         },
         {
