@@ -506,6 +506,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/master.zip"
         },
         {
+            "id": "Oxy-ify",
+            "last_update": 1672125846000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/module.prop",
+            "stars": 24,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/Oxy-ify/archive/master.zip"
+        },
+        {
             "id": "Pix3lify",
             "last_update": 1670479794000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/README.md",
@@ -643,7 +651,7 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1673739105000,
+            "last_update": 1673790834000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
             "stars": 188,
