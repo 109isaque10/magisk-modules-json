@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1673628100000,
+            "last_update": 1673797127000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 215,
+            "stars": 217,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -608,14 +608,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/module.prop",
             "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Repo/sonymusic/archive/master.zip"
-        },
-        {
-            "id": "sqlite3",
-            "last_update": 1661329067000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sqlite3/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sqlite3/master/module.prop",
-            "stars": 18,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/sqlite3/archive/master.zip"
         },
         {
             "id": "ssh",
