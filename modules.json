@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1673385251000,
+            "last_update": 1673785559000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 245,
+            "stars": 246,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -506,14 +506,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/master.zip"
         },
         {
-            "id": "Oxy-ify",
-            "last_update": 1672125846000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/module.prop",
-            "stars": 24,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/Oxy-ify/archive/master.zip"
-        },
-        {
             "id": "Pix3lify",
             "last_update": 1670479794000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/README.md",
@@ -608,14 +600,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/module.prop",
             "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Repo/sonymusic/archive/master.zip"
-        },
-        {
-            "id": "sqlite3",
-            "last_update": 1661329067000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sqlite3/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sqlite3/master/module.prop",
-            "stars": 18,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/sqlite3/archive/master.zip"
         },
         {
             "id": "ssh",
