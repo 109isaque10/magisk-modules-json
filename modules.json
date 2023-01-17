@@ -747,10 +747,10 @@
         },
         {
             "id": "wirelessFirmware",
-            "last_update": 1672231564000,
+            "last_update": 1673995963000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/module.prop",
-            "stars": 27,
+            "stars": 28,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip"
         },
         {
@@ -763,10 +763,10 @@
         },
         {
             "id": "xposed",
-            "last_update": 1673468178000,
+            "last_update": 1673994840000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/module.prop",
-            "stars": 88,
+            "stars": 89,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip"
         },
         {
