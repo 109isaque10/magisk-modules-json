@@ -75,7 +75,7 @@
         },
         {
             "id": "aml",
-            "last_update": 1673507292000,
+            "last_update": 1673986331000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/module.prop",
             "stars": 33,
@@ -275,7 +275,7 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1673814351000,
+            "last_update": 1673986354000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
             "stars": 245,
