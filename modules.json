@@ -83,10 +83,10 @@
         },
         {
             "id": "aospill",
-            "last_update": 1661328399000,
+            "last_update": 1674196348000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aospill/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aospill/master/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Repo/aospill/archive/master.zip"
         },
         {
@@ -179,10 +179,10 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1672623721000,
+            "last_update": 1674195477000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
-            "stars": 32,
+            "stars": 33,
             "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip"
         },
         {
