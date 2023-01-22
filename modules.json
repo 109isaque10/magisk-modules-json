@@ -211,10 +211,10 @@
         },
         {
             "id": "Detach",
-            "last_update": 1673870547000,
+            "last_update": 1674373541000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/module.prop",
-            "stars": 183,
+            "stars": 184,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
         },
         {
