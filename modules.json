@@ -731,7 +731,7 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1674731379000,
+            "last_update": 1674813896000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
             "stars": 362,
