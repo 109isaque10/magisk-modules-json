@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1674838153000,
+            "last_update": 1674883536000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1545,
+            "stars": 1546,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -499,7 +499,7 @@
         },
         {
             "id": "overlayfix",
-            "last_update": 1671431938000,
+            "last_update": 1674883153000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/module.prop",
             "stars": 23,
