@@ -458,14 +458,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/master.zip"
         },
         {
-            "id": "NFCScreenOff",
-            "last_update": 1673853360000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/module.prop",
-            "stars": 31,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/master.zip"
-        },
-        {
             "id": "noneDisplayCutout",
             "last_update": 1673633521000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/noneDisplayCutout/master/README.md",
