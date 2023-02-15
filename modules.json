@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1676468084000,
+            "last_update": 1676482523000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1567,
+            "stars": 1568,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -635,10 +635,10 @@
         },
         {
             "id": "tcpdump_static_aarch64",
-            "last_update": 1661329565000,
+            "last_update": 1676481859000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64/archive/master.zip"
         },
         {
