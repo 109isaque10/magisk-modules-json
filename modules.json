@@ -155,15 +155,15 @@
         },
         {
             "id": "callrecorder-skvalex",
-            "last_update": 1676628118000,
+            "last_update": 1676676005000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/module.prop",
-            "stars": 216,
+            "stars": 217,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip"
         },
         {
             "id": "ccbins",
-            "last_update": 1676675517000,
+            "last_update": 1676675960000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/module.prop",
             "stars": 72,
@@ -227,10 +227,10 @@
         },
         {
             "id": "disable-screenshot-camera-sounds",
-            "last_update": 1669831539000,
+            "last_update": 1676676228000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/archive/master.zip"
         },
         {
@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1676583431000,
+            "last_update": 1676675927000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 260,
+            "stars": 259,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -315,10 +315,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1676256600000,
+            "last_update": 1676675928000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/module.prop",
-            "stars": 420,
+            "stars": 419,
             "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -475,7 +475,7 @@
         },
         {
             "id": "OneController",
-            "last_update": 1676661762000,
+            "last_update": 1676679772000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
             "stars": 144,
@@ -651,7 +651,7 @@
         },
         {
             "id": "terminal_debloater",
-            "last_update": 1676344891000,
+            "last_update": 1676676178000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/module.prop",
             "stars": 153,
@@ -675,10 +675,10 @@
         },
         {
             "id": "twrp-keep",
-            "last_update": 1675778674000,
+            "last_update": 1676676147000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
-            "stars": 135,
+            "stars": 136,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
         },
         {
@@ -691,10 +691,10 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1676480699000,
+            "last_update": 1676676194000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 312,
+            "stars": 313,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
