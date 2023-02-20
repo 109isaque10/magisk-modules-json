@@ -443,10 +443,10 @@
         },
         {
             "id": "nano-ndk",
-            "last_update": 1676478287000,
+            "last_update": 1676855177000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/module.prop",
-            "stars": 82,
+            "stars": 83,
             "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip"
         },
         {
