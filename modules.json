@@ -163,10 +163,10 @@
         },
         {
             "id": "ccbins",
-            "last_update": 1676675960000,
+            "last_update": 1677210311000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/module.prop",
-            "stars": 72,
+            "stars": 73,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1677103858000,
+            "last_update": 1677211211000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 385,
+            "stars": 386,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
