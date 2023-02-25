@@ -195,10 +195,10 @@
         },
         {
             "id": "com.piyushgarg.rclone",
-            "last_update": 1677094726000,
+            "last_update": 1677318297000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/module.prop",
-            "stars": 224,
+            "stars": 225,
             "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/master.zip"
         },
         {
