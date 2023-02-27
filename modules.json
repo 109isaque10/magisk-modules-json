@@ -130,6 +130,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/master.zip"
         },
         {
+            "id": "BluetoothLibraryPatcher",
+            "last_update": 1674877235000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/module.prop",
+            "stars": 37,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/master.zip"
+        },
+        {
             "id": "busybox-ndk",
             "last_update": 1677483348000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
@@ -664,14 +672,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/module.prop",
             "stars": 23,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-helper/archive/master.zip"
-        },
-        {
-            "id": "twrp-keep",
-            "last_update": 1676676147000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
-            "stars": 136,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
         },
         {
             "id": "v2ray",
