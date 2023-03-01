@@ -683,10 +683,10 @@
         },
         {
             "id": "v2ray",
-            "last_update": 1677492843000,
+            "last_update": 1677665751000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/module.prop",
-            "stars": 295,
+            "stars": 296,
             "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip"
         },
         {
