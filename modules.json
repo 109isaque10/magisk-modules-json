@@ -211,10 +211,10 @@
         },
         {
             "id": "Detach",
-            "last_update": 1677289676000,
+            "last_update": 1677661202000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/module.prop",
-            "stars": 198,
+            "stars": 197,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
         },
         {
@@ -571,7 +571,7 @@
         },
         {
             "id": "riru_lsposed",
-            "last_update": 1677432357000,
+            "last_update": 1677660924000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_lsposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_lsposed/master/module.prop",
             "stars": 182,
