@@ -331,7 +331,7 @@
         },
         {
             "id": "KaliNethunter",
-            "last_update": 1677425659000,
+            "last_update": 1677790362000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/module.prop",
             "stars": 176,
@@ -475,10 +475,10 @@
         },
         {
             "id": "OneController",
-            "last_update": 1677640871000,
+            "last_update": 1677790813000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
-            "stars": 148,
+            "stars": 149,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip"
         },
         {
