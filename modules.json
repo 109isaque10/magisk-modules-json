@@ -715,10 +715,10 @@
         },
         {
             "id": "vold-posix",
-            "last_update": 1677251086000,
+            "last_update": 1677860754000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/module.prop",
-            "stars": 19,
+            "stars": 20,
             "zip_url": "https://github.com/Magisk-Modules-Repo/vold-posix/archive/master.zip"
         },
         {
