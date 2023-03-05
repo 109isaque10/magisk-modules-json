@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1677970565000,
+            "last_update": 1677979791000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 607,
+            "stars": 606,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -483,7 +483,7 @@
         },
         {
             "id": "OneUISounds",
-            "last_update": 1656600683000,
+            "last_update": 1677979782000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneUISounds/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneUISounds/master/module.prop",
             "stars": 5,
