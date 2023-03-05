@@ -227,10 +227,10 @@
         },
         {
             "id": "disable-screenshot-camera-sounds",
-            "last_update": 1676676228000,
+            "last_update": 1677976782000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/module.prop",
-            "stars": 12,
+            "stars": 13,
             "zip_url": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/archive/master.zip"
         },
         {
@@ -651,10 +651,10 @@
         },
         {
             "id": "terminal_debloater",
-            "last_update": 1677794227000,
+            "last_update": 1677977875000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/module.prop",
-            "stars": 158,
+            "stars": 159,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_debloater/archive/master.zip"
         },
         {
@@ -755,10 +755,10 @@
         },
         {
             "id": "xmlpak",
-            "last_update": 1677396430000,
+            "last_update": 1677974886000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/module.prop",
-            "stars": 113,
+            "stars": 114,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip"
         },
         {
