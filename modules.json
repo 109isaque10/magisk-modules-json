@@ -163,10 +163,10 @@
         },
         {
             "id": "ccbins",
-            "last_update": 1677210311000,
+            "last_update": 1678295699000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/module.prop",
-            "stars": 73,
+            "stars": 74,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip"
         },
         {
@@ -763,7 +763,7 @@
         },
         {
             "id": "xposed",
-            "last_update": 1677921920000,
+            "last_update": 1678298890000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/module.prop",
             "stars": 90,
