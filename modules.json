@@ -483,10 +483,10 @@
         },
         {
             "id": "OneUISounds",
-            "last_update": 1677979782000,
+            "last_update": 1678921830000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneUISounds/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneUISounds/master/module.prop",
-            "stars": 5,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneUISounds/archive/master.zip"
         },
         {
@@ -515,10 +515,10 @@
         },
         {
             "id": "Pix3lify",
-            "last_update": 1675397756000,
+            "last_update": 1678921836000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/module.prop",
-            "stars": 95,
+            "stars": 94,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Pix3lify/archive/master.zip"
         },
         {
@@ -547,10 +547,10 @@
         },
         {
             "id": "riru-core",
-            "last_update": 1678095374000,
+            "last_update": 1678920654000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/module.prop",
-            "stars": 134,
+            "stars": 135,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/master.zip"
         },
         {
@@ -603,10 +603,10 @@
         },
         {
             "id": "sonymusic",
-            "last_update": 1661423476000,
+            "last_update": 1678921834000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/module.prop",
-            "stars": 8,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Repo/sonymusic/archive/master.zip"
         },
         {
@@ -763,10 +763,10 @@
         },
         {
             "id": "xposed",
-            "last_update": 1678776644000,
+            "last_update": 1678921835000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/module.prop",
-            "stars": 91,
+            "stars": 90,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip"
         },
         {
