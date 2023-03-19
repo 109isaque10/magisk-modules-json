@@ -315,10 +315,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1679141177000,
+            "last_update": 1679226275000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/module.prop",
-            "stars": 423,
+            "stars": 422,
             "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1679197854000,
+            "last_update": 1679228348000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1614,
+            "stars": 1613,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -547,10 +547,10 @@
         },
         {
             "id": "riru-core",
-            "last_update": 1678920654000,
+            "last_update": 1679228447000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/module.prop",
-            "stars": 135,
+            "stars": 136,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/master.zip"
         },
         {
