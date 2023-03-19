@@ -395,10 +395,10 @@
         },
         {
             "id": "miracast-enabler",
-            "last_update": 1676095259000,
+            "last_update": 1679256984000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/module.prop",
-            "stars": 14,
+            "stars": 15,
             "zip_url": "https://github.com/Magisk-Modules-Repo/miracast-enabler/archive/master.zip"
         },
         {
