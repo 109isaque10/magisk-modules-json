@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1679768306000,
+            "last_update": 1679932222000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 622,
+            "stars": 623,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -627,10 +627,10 @@
         },
         {
             "id": "Systemless_TZData",
-            "last_update": 1671443414000,
+            "last_update": 1679933115000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/module.prop",
-            "stars": 20,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/master.zip"
         },
         {
