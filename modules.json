@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1679904795000,
+            "last_update": 1679977886000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 273,
+            "stars": 274,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -475,10 +475,10 @@
         },
         {
             "id": "OneController",
-            "last_update": 1679813549000,
+            "last_update": 1679979977000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
-            "stars": 154,
+            "stars": 155,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip"
         },
         {
