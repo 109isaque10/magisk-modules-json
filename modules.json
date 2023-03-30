@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1680147964000,
+            "last_update": 1680152698000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 269,
+            "stars": 270,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1679932222000,
+            "last_update": 1680150412000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 623,
+            "stars": 624,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -283,10 +283,10 @@
         },
         {
             "id": "GoogleDialerFramework",
-            "last_update": 1677205661000,
+            "last_update": 1680152736000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/module.prop",
-            "stars": 56,
+            "stars": 57,
             "zip_url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/master.zip"
         },
         {
@@ -691,10 +691,10 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1679631382000,
+            "last_update": 1680151292000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 320,
+            "stars": 321,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
