@@ -771,10 +771,10 @@
         },
         {
             "id": "xposed_dalvik",
-            "last_update": 1668333385000,
+            "last_update": 1680528765000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed_dalvik/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed_dalvik/master/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/archive/master.zip"
         },
         {
