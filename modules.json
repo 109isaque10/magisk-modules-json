@@ -139,7 +139,7 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1680845264000,
+            "last_update": 1680911997000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
             "stars": 631,
@@ -259,10 +259,10 @@
         },
         {
             "id": "Fdroid-Priv",
-            "last_update": 1679702283000,
+            "last_update": 1680909996000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/module.prop",
-            "stars": 107,
+            "stars": 108,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1680896315000,
+            "last_update": 1680909321000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1629,
+            "stars": 1630,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
