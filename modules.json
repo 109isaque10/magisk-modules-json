@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1681927596000,
+            "last_update": 1681964230000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1643,
+            "stars": 1642,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -691,10 +691,10 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1681399701000,
+            "last_update": 1681966045000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 325,
+            "stars": 326,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
