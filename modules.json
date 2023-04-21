@@ -163,10 +163,10 @@
         },
         {
             "id": "ccbins",
-            "last_update": 1681908019000,
+            "last_update": 1682098964000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/module.prop",
-            "stars": 76,
+            "stars": 77,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip"
         },
         {
@@ -347,7 +347,7 @@
         },
         {
             "id": "liboemcryptodisabler",
-            "last_update": 1680462657000,
+            "last_update": 1682098339000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/module.prop",
             "stars": 65,
