@@ -195,10 +195,10 @@
         },
         {
             "id": "com.piyushgarg.rclone",
-            "last_update": 1681111305000,
+            "last_update": 1682059434000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/module.prop",
-            "stars": 226,
+            "stars": 227,
             "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/master.zip"
         },
         {
@@ -619,10 +619,10 @@
         },
         {
             "id": "ssh",
-            "last_update": 1682055014000,
+            "last_update": 1682059328000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/module.prop",
-            "stars": 125,
+            "stars": 126,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip"
         },
         {
