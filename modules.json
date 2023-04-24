@@ -3,10 +3,10 @@
     "modules": [
         {
             "id": "acc",
-            "last_update": 1682180010000,
+            "last_update": 1682315878000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/module.prop",
-            "stars": 250,
+            "stars": 251,
             "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip"
         },
         {
@@ -683,10 +683,10 @@
         },
         {
             "id": "v2ray",
-            "last_update": 1682055519000,
+            "last_update": 1682316664000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/module.prop",
-            "stars": 307,
+            "stars": 308,
             "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip"
         },
         {
