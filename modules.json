@@ -619,10 +619,10 @@
         },
         {
             "id": "ssh",
-            "last_update": 1682463767000,
+            "last_update": 1682699368000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/module.prop",
-            "stars": 128,
+            "stars": 127,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip"
         },
         {
