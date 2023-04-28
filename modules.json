@@ -371,10 +371,10 @@
         },
         {
             "id": "magisk-drm-disabler",
-            "last_update": 1680349258000,
+            "last_update": 1682711023000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/module.prop",
-            "stars": 37,
+            "stars": 38,
             "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/master.zip"
         },
         {
@@ -395,10 +395,10 @@
         },
         {
             "id": "miracast-enabler",
-            "last_update": 1679256984000,
+            "last_update": 1682710569000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/module.prop",
-            "stars": 15,
+            "stars": 16,
             "zip_url": "https://github.com/Magisk-Modules-Repo/miracast-enabler/archive/master.zip"
         },
         {
