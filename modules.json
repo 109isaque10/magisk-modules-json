@@ -210,6 +210,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/ctenabler/archive/master.zip"
         },
         {
+            "id": "Detach",
+            "last_update": 1682869834000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/module.prop",
+            "stars": 207,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
+        },
+        {
             "id": "disable-mdnsd",
             "last_update": 1666496246000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-mdnsd/master/README.md",
@@ -371,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1682682893000,
+            "last_update": 1682869814000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1651,
+            "stars": 1652,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
