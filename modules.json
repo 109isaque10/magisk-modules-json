@@ -210,14 +210,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/ctenabler/archive/master.zip"
         },
         {
-            "id": "Detach",
-            "last_update": 1682780370000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/module.prop",
-            "stars": 208,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
-        },
-        {
             "id": "disable-mdnsd",
             "last_update": 1666496246000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-mdnsd/master/README.md",
