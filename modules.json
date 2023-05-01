@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1682978936000,
+            "last_update": 1682979214000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1655,
+            "stars": 1656,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -515,10 +515,10 @@
         },
         {
             "id": "Pix3lify",
-            "last_update": 1680943104000,
+            "last_update": 1682980379000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/module.prop",
-            "stars": 96,
+            "stars": 97,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Pix3lify/archive/master.zip"
         },
         {
