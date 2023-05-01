@@ -555,10 +555,10 @@
         },
         {
             "id": "riru_edxposed",
-            "last_update": 1682290550000,
+            "last_update": 1682958331000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/module.prop",
-            "stars": 66,
+            "stars": 67,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_edxposed/archive/master.zip"
         },
         {
@@ -675,10 +675,10 @@
         },
         {
             "id": "twrp-keep",
-            "last_update": 1682549944000,
+            "last_update": 1682958051000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
-            "stars": 139,
+            "stars": 140,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
         },
         {
