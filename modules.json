@@ -315,10 +315,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1682596857000,
+            "last_update": 1682999370000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/module.prop",
-            "stars": 433,
+            "stars": 434,
             "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -475,10 +475,10 @@
         },
         {
             "id": "OneController",
-            "last_update": 1682814249000,
+            "last_update": 1682997640000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
-            "stars": 163,
+            "stars": 164,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip"
         },
         {
