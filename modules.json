@@ -291,10 +291,10 @@
         },
         {
             "id": "HEVCEnabler",
-            "last_update": 1665317599000,
+            "last_update": 1683110139000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HEVCEnabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HEVCEnabler/master/module.prop",
-            "stars": 13,
+            "stars": 14,
             "zip_url": "https://github.com/Magisk-Modules-Repo/HEVCEnabler/archive/master.zip"
         },
         {
