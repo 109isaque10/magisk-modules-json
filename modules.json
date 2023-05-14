@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1684017877000,
+            "last_update": 1684044985000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 644,
+            "stars": 643,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1683922645000,
+            "last_update": 1684045390000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1673,
+            "stars": 1674,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
