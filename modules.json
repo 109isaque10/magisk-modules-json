@@ -19,10 +19,10 @@
         },
         {
             "id": "active_edge_system_mod",
-            "last_update": 1684738201000,
+            "last_update": 1684922695000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/active_edge_system_mod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/active_edge_system_mod/master/module.prop",
-            "stars": 45,
+            "stars": 46,
             "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/master.zip"
         },
         {
@@ -443,10 +443,10 @@
         },
         {
             "id": "nano-ndk",
-            "last_update": 1684913369000,
+            "last_update": 1684920116000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/module.prop",
-            "stars": 95,
+            "stars": 94,
             "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip"
         },
         {
@@ -475,10 +475,10 @@
         },
         {
             "id": "OneController",
-            "last_update": 1684837818000,
+            "last_update": 1684922648000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
-            "stars": 169,
+            "stars": 170,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip"
         },
         {
@@ -659,10 +659,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1684451453000,
+            "last_update": 1684922766000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 220,
+            "stars": 221,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
