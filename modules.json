@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1684897212000,
+            "last_update": 1684982039000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1683,
+            "stars": 1684,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -419,10 +419,10 @@
         },
         {
             "id": "motoclockwidget",
-            "last_update": 1675698614000,
+            "last_update": 1684981969000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/motoclockwidget/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/motoclockwidget/master/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Repo/motoclockwidget/archive/master.zip"
         },
         {
