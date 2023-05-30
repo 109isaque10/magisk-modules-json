@@ -347,10 +347,10 @@
         },
         {
             "id": "liboemcryptodisabler",
-            "last_update": 1683615657000,
+            "last_update": 1685410417000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/module.prop",
-            "stars": 68,
+            "stars": 69,
             "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1685380439000,
+            "last_update": 1685412283000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1686,
+            "stars": 1687,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
