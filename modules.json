@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1685801825000,
+            "last_update": 1686007165000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 291,
+            "stars": 292,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -659,10 +659,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1685916239000,
+            "last_update": 1686007324000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 226,
+            "stars": 227,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
