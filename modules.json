@@ -475,10 +475,10 @@
         },
         {
             "id": "OneController",
-            "last_update": 1686730273000,
+            "last_update": 1686802417000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
-            "stars": 173,
+            "stars": 174,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip"
         },
         {
@@ -675,10 +675,10 @@
         },
         {
             "id": "twrp-keep",
-            "last_update": 1686637383000,
+            "last_update": 1686801950000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
-            "stars": 148,
+            "stars": 149,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
         },
         {
