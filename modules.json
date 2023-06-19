@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1687162122000,
+            "last_update": 1687165971000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 675,
+            "stars": 674,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1686965883000,
+            "last_update": 1687163355000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 297,
+            "stars": 298,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1687162087000,
+            "last_update": 1687165971000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1702,
+            "stars": 1703,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1686941474000,
+            "last_update": 1687163361000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 445,
+            "stars": 446,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
@@ -443,7 +443,7 @@
         },
         {
             "id": "nano-ndk",
-            "last_update": 1687162168000,
+            "last_update": 1687165971000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/module.prop",
             "stars": 104,
