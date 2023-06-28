@@ -650,6 +650,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminalmods/archive/master.zip"
         },
         {
+            "id": "terminal_debloater",
+            "last_update": 1687817982000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/module.prop",
+            "stars": 180,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_debloater/archive/master.zip"
+        },
+        {
             "id": "terminal_systemizer",
             "last_update": 1687115353000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
@@ -672,6 +680,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
             "stars": 150,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
+        },
+        {
+            "id": "v2ray",
+            "last_update": 1687375131000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/module.prop",
+            "stars": 312,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip"
         },
         {
             "id": "ViPER4AndroidFX",
