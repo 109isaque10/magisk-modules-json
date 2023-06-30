@@ -75,10 +75,10 @@
         },
         {
             "id": "aml",
-            "last_update": 1686417426000,
+            "last_update": 1688155567000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/module.prop",
-            "stars": 46,
+            "stars": 47,
             "zip_url": "https://github.com/Magisk-Modules-Repo/aml/archive/master.zip"
         },
         {
@@ -155,10 +155,10 @@
         },
         {
             "id": "callrecorder-skvalex",
-            "last_update": 1688107257000,
+            "last_update": 1688155313000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/module.prop",
-            "stars": 258,
+            "stars": 257,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip"
         },
         {
@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1688116047000,
+            "last_update": 1688155314000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 303,
+            "stars": 302,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1688116784000,
+            "last_update": 1688155312000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1706,
+            "stars": 1705,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -675,10 +675,10 @@
         },
         {
             "id": "twrp-keep",
-            "last_update": 1688120276000,
+            "last_update": 1688152775000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
-            "stars": 151,
+            "stars": 152,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
         },
         {
@@ -731,10 +731,10 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1687331678000,
+            "last_update": 1688155312000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
-            "stars": 412,
+            "stars": 411,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip"
         },
         {
@@ -763,10 +763,10 @@
         },
         {
             "id": "xposed",
-            "last_update": 1687671575000,
+            "last_update": 1688152772000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/module.prop",
-            "stars": 102,
+            "stars": 103,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip"
         },
         {
