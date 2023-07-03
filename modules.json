@@ -435,10 +435,10 @@
         },
         {
             "id": "mtd-ndk",
-            "last_update": 1685198963000,
+            "last_update": 1688420313000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/module.prop",
-            "stars": 38,
+            "stars": 39,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip"
         },
         {
@@ -731,10 +731,10 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1688317519000,
+            "last_update": 1688419651000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
-            "stars": 409,
+            "stars": 408,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip"
         },
         {
