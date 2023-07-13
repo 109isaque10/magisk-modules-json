@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1689180648000,
+            "last_update": 1689253663000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 455,
+            "stars": 456,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
@@ -619,10 +619,10 @@
         },
         {
             "id": "ssh",
-            "last_update": 1689251196000,
+            "last_update": 1689251722000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/module.prop",
-            "stars": 140,
+            "stars": 139,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip"
         },
         {
