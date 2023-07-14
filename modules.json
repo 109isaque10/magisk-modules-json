@@ -179,10 +179,10 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1686639487000,
+            "last_update": 1689369176000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
-            "stars": 41,
+            "stars": 40,
             "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip"
         },
         {
@@ -251,18 +251,18 @@
         },
         {
             "id": "ExSDCard",
-            "last_update": 1683757044000,
+            "last_update": 1689369114000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ExSDCard/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ExSDCard/master/module.prop",
-            "stars": 43,
+            "stars": 42,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/master.zip"
         },
         {
             "id": "Fdroid-Priv",
-            "last_update": 1685408246000,
+            "last_update": 1689369156000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/module.prop",
-            "stars": 111,
+            "stars": 110,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/master.zip"
         },
         {
@@ -691,18 +691,18 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1689205047000,
+            "last_update": 1689369168000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 353,
+            "stars": 352,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
             "id": "ViPER4AndroidFX-Legacy",
-            "last_update": 1686515054000,
+            "last_update": 1689369142000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/master/module.prop",
-            "stars": 31,
+            "stars": 30,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/archive/master.zip"
         },
         {
