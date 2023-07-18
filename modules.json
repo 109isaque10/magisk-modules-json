@@ -763,10 +763,10 @@
         },
         {
             "id": "xposed",
-            "last_update": 1689514584000,
+            "last_update": 1689686093000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/module.prop",
-            "stars": 106,
+            "stars": 107,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip"
         },
         {
