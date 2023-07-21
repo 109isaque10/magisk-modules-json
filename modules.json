@@ -11,10 +11,10 @@
         },
         {
             "id": "acp",
-            "last_update": 1689042163000,
+            "last_update": 1689922811000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/module.prop",
-            "stars": 63,
+            "stars": 62,
             "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/master.zip"
         },
         {
@@ -59,10 +59,10 @@
         },
         {
             "id": "ainur_narsil",
-            "last_update": 1689523613000,
+            "last_update": 1689922805000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/module.prop",
-            "stars": 97,
+            "stars": 96,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_narsil/archive/master.zip"
         },
         {
