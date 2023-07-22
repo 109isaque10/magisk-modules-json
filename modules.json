@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1689995770000,
+            "last_update": 1690010084000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 464,
+            "stars": 465,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
@@ -651,7 +651,7 @@
         },
         {
             "id": "terminal_debloater",
-            "last_update": 1689716260000,
+            "last_update": 1690011377000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/module.prop",
             "stars": 186,
