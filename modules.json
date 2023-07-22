@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1689708532000,
+            "last_update": 1690048695000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 255,
+            "stars": 256,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -443,10 +443,10 @@
         },
         {
             "id": "nano-ndk",
-            "last_update": 1687382983000,
+            "last_update": 1690049380000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/module.prop",
-            "stars": 103,
+            "stars": 102,
             "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip"
         },
         {
