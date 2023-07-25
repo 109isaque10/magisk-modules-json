@@ -3,10 +3,10 @@
     "modules": [
         {
             "id": "acc",
-            "last_update": 1690235667000,
+            "last_update": 1690269063000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/module.prop",
-            "stars": 262,
+            "stars": 263,
             "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1690260199000,
+            "last_update": 1690268988000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1728,
+            "stars": 1729,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
