@@ -467,10 +467,10 @@
         },
         {
             "id": "noneDisplayCutout",
-            "last_update": 1686870528000,
+            "last_update": 1690328680000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/noneDisplayCutout/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/noneDisplayCutout/master/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/archive/master.zip"
         },
         {
@@ -659,10 +659,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1690106198000,
+            "last_update": 1690327738000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 236,
+            "stars": 237,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
