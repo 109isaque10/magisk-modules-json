@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1690048695000,
+            "last_update": 1690364303000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 256,
+            "stars": 257,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -371,18 +371,18 @@
         },
         {
             "id": "magisk-drm-disabler",
-            "last_update": 1688986195000,
+            "last_update": 1690363593000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/module.prop",
-            "stars": 41,
+            "stars": 42,
             "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/master.zip"
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1690354262000,
+            "last_update": 1690364382000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1730,
+            "stars": 1729,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
