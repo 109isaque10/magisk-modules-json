@@ -3,10 +3,10 @@
     "modules": [
         {
             "id": "acc",
-            "last_update": 1690507806000,
+            "last_update": 1690638085000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/module.prop",
-            "stars": 264,
+            "stars": 263,
             "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip"
         },
         {
@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1690492264000,
+            "last_update": 1690638075000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 256,
+            "stars": 255,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1690287802000,
+            "last_update": 1690637938000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 309,
+            "stars": 308,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -731,10 +731,10 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1690628317000,
+            "last_update": 1690638094000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
-            "stars": 415,
+            "stars": 414,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip"
         },
         {
