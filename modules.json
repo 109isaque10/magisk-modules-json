@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1690615247000,
+            "last_update": 1690678274000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 469,
+            "stars": 470,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
@@ -691,10 +691,10 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1690579376000,
+            "last_update": 1690678297000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 354,
+            "stars": 355,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
