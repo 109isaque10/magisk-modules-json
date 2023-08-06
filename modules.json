@@ -395,10 +395,10 @@
         },
         {
             "id": "miracast-enabler",
-            "last_update": 1683677649000,
+            "last_update": 1691327071000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/module.prop",
-            "stars": 17,
+            "stars": 18,
             "zip_url": "https://github.com/Magisk-Modules-Repo/miracast-enabler/archive/master.zip"
         },
         {
@@ -523,10 +523,10 @@
         },
         {
             "id": "PIXELARITY",
-            "last_update": 1688615823000,
+            "last_update": 1691327059000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/PIXELARITY/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/PIXELARITY/master/module.prop",
-            "stars": 15,
+            "stars": 16,
             "zip_url": "https://github.com/Magisk-Modules-Repo/PIXELARITY/archive/master.zip"
         },
         {
