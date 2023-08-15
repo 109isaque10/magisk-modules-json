@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1691791440000,
+            "last_update": 1692083907000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 256,
+            "stars": 257,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -371,10 +371,10 @@
         },
         {
             "id": "magisk-drm-disabler",
-            "last_update": 1690978297000,
+            "last_update": 1692084014000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/module.prop",
-            "stars": 44,
+            "stars": 45,
             "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/master.zip"
         },
         {
