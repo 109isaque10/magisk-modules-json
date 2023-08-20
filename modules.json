@@ -779,10 +779,10 @@
         },
         {
             "id": "zipsigner",
-            "last_update": 1687237783000,
+            "last_update": 1692565879000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/module.prop",
-            "stars": 47,
+            "stars": 48,
             "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip"
         },
         {
