@@ -555,10 +555,10 @@
         },
         {
             "id": "riru_edxposed",
-            "last_update": 1687560210000,
+            "last_update": 1692695447000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/module.prop",
-            "stars": 69,
+            "stars": 70,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_edxposed/archive/master.zip"
         },
         {
@@ -771,10 +771,10 @@
         },
         {
             "id": "xposed_dalvik",
-            "last_update": 1680528765000,
+            "last_update": 1692692817000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed_dalvik/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed_dalvik/master/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/archive/master.zip"
         },
         {
