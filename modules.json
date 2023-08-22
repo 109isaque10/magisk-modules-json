@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1692414184000,
+            "last_update": 1692704127000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 308,
+            "stars": 309,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1692634643000,
+            "last_update": 1692704125000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 712,
+            "stars": 713,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1692657663000,
+            "last_update": 1692704150000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1752,
+            "stars": 1753,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -443,10 +443,10 @@
         },
         {
             "id": "nano-ndk",
-            "last_update": 1692318330000,
+            "last_update": 1692704122000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/module.prop",
-            "stars": 102,
+            "stars": 103,
             "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip"
         },
         {
