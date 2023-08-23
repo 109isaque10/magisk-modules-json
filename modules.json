@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1692799683000,
+            "last_update": 1692800088000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 310,
+            "stars": 309,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -155,10 +155,10 @@
         },
         {
             "id": "callrecorder-skvalex",
-            "last_update": 1692558329000,
+            "last_update": 1692800363000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/module.prop",
-            "stars": 264,
+            "stars": 265,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip"
         },
         {
@@ -299,10 +299,10 @@
         },
         {
             "id": "hidden_settings",
-            "last_update": 1680535686000,
+            "last_update": 1692801539000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/hidden_settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/hidden_settings/master/module.prop",
-            "stars": 29,
+            "stars": 30,
             "zip_url": "https://github.com/Magisk-Modules-Repo/hidden_settings/archive/master.zip"
         },
         {
