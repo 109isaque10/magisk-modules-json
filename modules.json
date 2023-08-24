@@ -251,10 +251,10 @@
         },
         {
             "id": "ExSDCard",
-            "last_update": 1689369114000,
+            "last_update": 1692907007000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ExSDCard/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ExSDCard/master/module.prop",
-            "stars": 42,
+            "stars": 43,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/master.zip"
         },
         {
@@ -331,10 +331,10 @@
         },
         {
             "id": "KaliNethunter",
-            "last_update": 1692632800000,
+            "last_update": 1692906942000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/module.prop",
-            "stars": 208,
+            "stars": 209,
             "zip_url": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip"
         },
         {
@@ -659,10 +659,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1692789921000,
+            "last_update": 1692906356000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 247,
+            "stars": 248,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
