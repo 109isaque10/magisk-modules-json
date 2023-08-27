@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1692471562000,
+            "last_update": 1693163174000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 260,
+            "stars": 261,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -411,10 +411,10 @@
         },
         {
             "id": "mm",
-            "last_update": 1686464370000,
+            "last_update": 1693163269000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mm/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mm/master/module.prop",
-            "stars": 154,
+            "stars": 155,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mm/archive/master.zip"
         },
         {
