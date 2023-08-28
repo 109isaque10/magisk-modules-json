@@ -11,10 +11,10 @@
         },
         {
             "id": "acp",
-            "last_update": 1692844843000,
+            "last_update": 1693257684000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/module.prop",
-            "stars": 67,
+            "stars": 68,
             "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/master.zip"
         },
         {
@@ -163,10 +163,10 @@
         },
         {
             "id": "ccbins",
-            "last_update": 1692772509000,
+            "last_update": 1693257187000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/module.prop",
-            "stars": 85,
+            "stars": 86,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip"
         },
         {
