@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1693457760000,
+            "last_update": 1693471291000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 315,
+            "stars": 316,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1693229777000,
+            "last_update": 1693471308000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 717,
+            "stars": 718,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
