@@ -379,7 +379,7 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1693458129000,
+            "last_update": 1693508490000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
             "stars": 1759,
