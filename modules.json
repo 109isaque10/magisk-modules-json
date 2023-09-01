@@ -10,14 +10,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip"
         },
         {
-            "id": "acp",
-            "last_update": 1693257684000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/module.prop",
-            "stars": 68,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/master.zip"
-        },
-        {
             "id": "active_edge_system_mod",
             "last_update": 1689105584000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/active_edge_system_mod/master/README.md",
@@ -274,14 +266,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/foxy-boot/archive/master.zip"
         },
         {
-            "id": "gvisualmod",
-            "last_update": 1692640671000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 308,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
-        },
-        {
             "id": "GoogleDialerFramework",
             "last_update": 1688277372000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/README.md",
@@ -312,14 +296,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideGesBar/master/module.prop",
             "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Repo/HideGesBar/archive/master.zip"
-        },
-        {
-            "id": "HideNavBar",
-            "last_update": 1693364153000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/module.prop",
-            "stars": 451,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip"
         },
         {
             "id": "IPControl",
@@ -384,14 +360,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
             "stars": 1757,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
-        },
-        {
-            "id": "microg_installer",
-            "last_update": 1686514901000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/microG_installer/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/microG_installer/master/module.prop",
-            "stars": 66,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/master.zip"
         },
         {
             "id": "miracast-enabler",
@@ -706,14 +674,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/archive/master.zip"
         },
         {
-            "id": "ViPER4AndroidXHiFi",
-            "last_update": 1686515096000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/master/module.prop",
-            "stars": 4,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/archive/master.zip"
-        },
-        {
             "id": "vold-posix",
             "last_update": 1688994849000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/README.md",
@@ -746,14 +706,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/archive/master.zip"
         },
         {
-            "id": "wirelessFirmware",
-            "last_update": 1690634949000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/module.prop",
-            "stars": 31,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip"
-        },
-        {
             "id": "xmlpak",
             "last_update": 1693584485000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
@@ -784,14 +736,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/module.prop",
             "stars": 48,
             "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip"
-        },
-        {
-            "id": "zsh_arm64",
-            "last_update": 1651603883000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zsh_arm64/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zsh_arm64/master/module.prop",
-            "stars": 9,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/zsh_arm64/archive/master.zip"
         }
     ],
     "name": "Magisk Modules Repo"
