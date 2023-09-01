@@ -59,10 +59,10 @@
         },
         {
             "id": "ainur_narsil",
-            "last_update": 1692944594000,
+            "last_update": 1693524566000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/module.prop",
-            "stars": 104,
+            "stars": 105,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_narsil/archive/master.zip"
         },
         {
@@ -75,10 +75,10 @@
         },
         {
             "id": "aml",
-            "last_update": 1691760987000,
+            "last_update": 1693524735000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/module.prop",
-            "stars": 47,
+            "stars": 48,
             "zip_url": "https://github.com/Magisk-Modules-Repo/aml/archive/master.zip"
         },
         {
@@ -435,10 +435,10 @@
         },
         {
             "id": "mtd-ndk",
-            "last_update": 1688420313000,
+            "last_update": 1693524761000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/module.prop",
-            "stars": 39,
+            "stars": 40,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip"
         },
         {
