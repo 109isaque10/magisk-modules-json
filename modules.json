@@ -3,10 +3,10 @@
     "modules": [
         {
             "id": "acc",
-            "last_update": 1693658759000,
+            "last_update": 1693660999000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/module.prop",
-            "stars": 274,
+            "stars": 275,
             "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip"
         },
         {
@@ -715,10 +715,10 @@
         },
         {
             "id": "vold-posix",
-            "last_update": 1688994849000,
+            "last_update": 1693663683000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/module.prop",
-            "stars": 20,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Repo/vold-posix/archive/master.zip"
         },
         {
