@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1694194933000,
+            "last_update": 1694386941000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 265,
+            "stars": 266,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -459,10 +459,10 @@
         },
         {
             "id": "NFCScreenOff",
-            "last_update": 1694029308000,
+            "last_update": 1694387374000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/module.prop",
-            "stars": 39,
+            "stars": 40,
             "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/master.zip"
         },
         {
