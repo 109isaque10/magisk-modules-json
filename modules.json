@@ -51,10 +51,10 @@
         },
         {
             "id": "ainur_jamesdsp",
-            "last_update": 1694012162000,
+            "last_update": 1694485299000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_jamesdsp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_jamesdsp/master/module.prop",
-            "stars": 65,
+            "stars": 66,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/master.zip"
         },
         {
@@ -123,10 +123,10 @@
         },
         {
             "id": "benchkit",
-            "last_update": 1693058280000,
+            "last_update": 1694487412000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/benchkit/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/benchkit/master/module.prop",
-            "stars": 59,
+            "stars": 60,
             "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/master.zip"
         },
         {
@@ -659,10 +659,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1694408979000,
+            "last_update": 1694486701000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 249,
+            "stars": 250,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
