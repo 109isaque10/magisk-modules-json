@@ -171,14 +171,6 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1694289990000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/module.prop",
-            "stars": 96,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/master.zip"
-        },
-        {
-            "id": "CloudflareDNS4Magisk",
             "last_update": 1693278232000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
@@ -272,14 +264,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/foxy-boot/master/module.prop",
             "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Repo/foxy-boot/archive/master.zip"
-        },
-        {
-            "id": "gvisualmod",
-            "last_update": 1695538069000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 311,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
             "id": "GoogleDialerFramework",
