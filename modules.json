@@ -650,6 +650,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminalmods/archive/master.zip"
         },
         {
+            "id": "terminal_debloater",
+            "last_update": 1694878667000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/module.prop",
+            "stars": 194,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_debloater/archive/master.zip"
+        },
+        {
             "id": "terminal_systemizer",
             "last_update": 1694878819000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
@@ -698,6 +706,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/archive/master.zip"
         },
         {
+            "id": "ViPER4AndroidXHiFi",
+            "last_update": 1686515096000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/master/module.prop",
+            "stars": 4,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/archive/master.zip"
+        },
+        {
             "id": "vold-posix",
             "last_update": 1694011969000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/README.md",
@@ -714,20 +730,20 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/archive/master.zip"
         },
         {
+            "id": "wifi-bonding",
+            "last_update": 1695479390000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
+            "stars": 429,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip"
+        },
+        {
             "id": "wifi5ghzdisabler",
             "last_update": 1694012078000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi5ghzdisabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi5ghzdisabler/master/module.prop",
             "stars": 9,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/archive/master.zip"
-        },
-        {
-            "id": "wirelessFirmware",
-            "last_update": 1695731652000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/module.prop",
-            "stars": 31,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip"
         },
         {
             "id": "xmlpak",
