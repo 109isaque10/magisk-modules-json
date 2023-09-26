@@ -378,6 +378,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/master.zip"
         },
         {
+            "id": "MagiskHidePropsConf",
+            "last_update": 1695717121000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
+            "stars": 1776,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
+        },
+        {
             "id": "microg_installer",
             "last_update": 1695717166000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/microG_installer/master/README.md",
@@ -480,6 +488,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneUISounds/master/module.prop",
             "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneUISounds/archive/master.zip"
+        },
+        {
+            "id": "oosbar",
+            "last_update": 1648643145000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/oosbar/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/oosbar/master/module.prop",
+            "stars": 8,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/oosbar/archive/master.zip"
         },
         {
             "id": "overlayfix",
@@ -731,10 +747,10 @@
         },
         {
             "id": "wirelessFirmware",
-            "last_update": 1694012018000,
+            "last_update": 1695731652000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/module.prop",
-            "stars": 30,
+            "stars": 31,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip"
         },
         {
