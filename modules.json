@@ -218,6 +218,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
         },
         {
+            "id": "disable-mdnsd",
+            "last_update": 1694011947000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-mdnsd/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-mdnsd/master/module.prop",
+            "stars": 9,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/disable-mdnsd/archive/master.zip"
+        },
+        {
             "id": "disable-screenshot-camera-sounds",
             "last_update": 1694012022000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/README.md",
@@ -376,14 +384,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
             "stars": 1775,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
-        },
-        {
-            "id": "microg_installer",
-            "last_update": 1694390066000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/microG_installer/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/microG_installer/master/module.prop",
-            "stars": 67,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/master.zip"
         },
         {
             "id": "miracast-enabler",
