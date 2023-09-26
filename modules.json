@@ -42,6 +42,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/archive/master.zip"
         },
         {
+            "id": "adreno-dev",
+            "last_update": 1688650021000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/module.prop",
+            "stars": 66,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/master.zip"
+        },
+        {
             "id": "ainur_jamesdsp",
             "last_update": 1695363164000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_jamesdsp/master/README.md",
