@@ -2,14 +2,6 @@
     "last_update": 1655496159000,
     "modules": [
         {
-            "id": "acc",
-            "last_update": 1695553843000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/module.prop",
-            "stars": 280,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip"
-        },
-        {
             "id": "acp",
             "last_update": 1694971079000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
@@ -195,10 +187,10 @@
         },
         {
             "id": "com.piyushgarg.rclone",
-            "last_update": 1691694530000,
+            "last_update": 1695720694000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/module.prop",
-            "stars": 235,
+            "stars": 236,
             "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/master.zip"
         },
         {
@@ -448,6 +440,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/module.prop",
             "stars": 103,
             "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip"
+        },
+        {
+            "id": "nexusmedia",
+            "last_update": 1688967930000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nexusmedia/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nexusmedia/master/module.prop",
+            "stars": 22,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/master.zip"
         },
         {
             "id": "NFCScreenOff",
@@ -728,14 +728,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
             "stars": 429,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip"
-        },
-        {
-            "id": "wifi5ghzdisabler",
-            "last_update": 1694012078000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi5ghzdisabler/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi5ghzdisabler/master/module.prop",
-            "stars": 9,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/archive/master.zip"
         },
         {
             "id": "wirelessFirmware",
