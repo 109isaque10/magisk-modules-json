@@ -171,14 +171,6 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1694289990000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/module.prop",
-            "stars": 96,
-            "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/master.zip"
-        },
-        {
-            "id": "CloudflareDNS4Magisk",
             "last_update": 1693278232000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
@@ -418,6 +410,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/mm/archive/master.zip"
         },
         {
+            "id": "motoclockwidget",
+            "last_update": 1684981969000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/motoclockwidget/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/motoclockwidget/master/module.prop",
+            "stars": 7,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/motoclockwidget/archive/master.zip"
+        },
+        {
             "id": "movecert",
             "last_update": 1695522817000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
@@ -432,6 +432,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/module.prop",
             "stars": 40,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip"
+        },
+        {
+            "id": "nano-ndk",
+            "last_update": 1695440385000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/module.prop",
+            "stars": 103,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip"
         },
         {
             "id": "nexusmedia",
@@ -616,6 +624,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/module.prop",
             "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/master.zip"
+        },
+        {
+            "id": "tcpdump_static_aarch64",
+            "last_update": 1694011951000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/module.prop",
+            "stars": 6,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64/archive/master.zip"
         },
         {
             "id": "terminalmods",
