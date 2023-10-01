@@ -123,10 +123,10 @@
         },
         {
             "id": "benchkit",
-            "last_update": 1695824098000,
+            "last_update": 1696200695000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/benchkit/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/benchkit/master/module.prop",
-            "stars": 61,
+            "stars": 62,
             "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/master.zip"
         },
         {
@@ -755,10 +755,10 @@
         },
         {
             "id": "xmlpak",
-            "last_update": 1695908310000,
+            "last_update": 1696200921000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/module.prop",
-            "stars": 136,
+            "stars": 137,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip"
         },
         {
