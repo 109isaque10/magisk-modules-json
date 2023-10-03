@@ -387,18 +387,18 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1695717166000,
+            "last_update": 1696373300000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/microG_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/microG_installer/master/module.prop",
-            "stars": 68,
+            "stars": 69,
             "zip_url": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/master.zip"
         },
         {
             "id": "miracast-enabler",
-            "last_update": 1691327071000,
+            "last_update": 1696373702000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Repo/miracast-enabler/archive/master.zip"
         },
         {
@@ -411,10 +411,10 @@
         },
         {
             "id": "mm",
-            "last_update": 1695898075000,
+            "last_update": 1696373640000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mm/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mm/master/module.prop",
-            "stars": 155,
+            "stars": 156,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mm/archive/master.zip"
         },
         {
