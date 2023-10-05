@@ -139,7 +139,7 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1696409068000,
+            "last_update": 1696461854000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
             "stars": 742,
@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1696359749000,
+            "last_update": 1696464682000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 273,
+            "stars": 274,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
