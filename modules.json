@@ -83,10 +83,10 @@
         },
         {
             "id": "aospill",
-            "last_update": 1694012071000,
+            "last_update": 1696586487000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aospill/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aospill/master/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Repo/aospill/archive/master.zip"
         },
         {
@@ -211,10 +211,10 @@
         },
         {
             "id": "Detach",
-            "last_update": 1696094711000,
+            "last_update": 1696584234000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/module.prop",
-            "stars": 218,
+            "stars": 219,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
         },
         {
