@@ -43,10 +43,10 @@
         },
         {
             "id": "adreno-dev",
-            "last_update": 1688650021000,
+            "last_update": 1696641260000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/module.prop",
-            "stars": 66,
+            "stars": 67,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/master.zip"
         },
         {
@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1696485793000,
+            "last_update": 1696641319000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 743,
+            "stars": 744,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1696570261000,
+            "last_update": 1696640966000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 504,
+            "stars": 505,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
@@ -779,10 +779,10 @@
         },
         {
             "id": "zipsigner",
-            "last_update": 1696395663000,
+            "last_update": 1696641302000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/module.prop",
-            "stars": 51,
+            "stars": 52,
             "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip"
         },
         {
