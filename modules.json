@@ -155,10 +155,10 @@
         },
         {
             "id": "callrecorder-skvalex",
-            "last_update": 1696561764000,
+            "last_update": 1696752472000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/module.prop",
-            "stars": 275,
+            "stars": 276,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip"
         },
         {
@@ -435,10 +435,10 @@
         },
         {
             "id": "mtd-ndk",
-            "last_update": 1694117489000,
+            "last_update": 1696751794000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/module.prop",
-            "stars": 40,
+            "stars": 41,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip"
         },
         {
@@ -547,10 +547,10 @@
         },
         {
             "id": "riru-core",
-            "last_update": 1695717172000,
+            "last_update": 1696752296000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/module.prop",
-            "stars": 144,
+            "stars": 145,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/master.zip"
         },
         {
@@ -563,10 +563,10 @@
         },
         {
             "id": "riru_location_report_enabler",
-            "last_update": 1670308844000,
+            "last_update": 1696752266000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_location_report_enabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_location_report_enabler/master/module.prop",
-            "stars": 10,
+            "stars": 11,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/archive/master.zip"
         },
         {
@@ -579,10 +579,10 @@
         },
         {
             "id": "riru_storage_redirect",
-            "last_update": 1695661531000,
+            "last_update": 1696751731000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/module.prop",
-            "stars": 55,
+            "stars": 56,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/master.zip"
         },
         {
@@ -651,26 +651,26 @@
         },
         {
             "id": "terminal_debloater",
-            "last_update": 1694878667000,
+            "last_update": 1696751911000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/module.prop",
-            "stars": 194,
+            "stars": 195,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_debloater/archive/master.zip"
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1696244212000,
+            "last_update": 1696751886000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 253,
+            "stars": 254,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
             "id": "twrp-helper",
-            "last_update": 1665566709000,
+            "last_update": 1696752104000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-helper/archive/master.zip"
         },
         {
@@ -691,10 +691,10 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1696696483000,
+            "last_update": 1696752215000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 368,
+            "stars": 369,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
@@ -763,10 +763,10 @@
         },
         {
             "id": "xposed",
-            "last_update": 1696699181000,
+            "last_update": 1696752334000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/module.prop",
-            "stars": 110,
+            "stars": 111,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip"
         },
         {
