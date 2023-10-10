@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1696753414000,
+            "last_update": 1696896966000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 325,
+            "stars": 326,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -179,10 +179,10 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1693278232000,
+            "last_update": 1696898290000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
-            "stars": 41,
+            "stars": 40,
             "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip"
         },
         {
@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1696891202000,
+            "last_update": 1696897614000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 275,
+            "stars": 274,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1696892591000,
+            "last_update": 1696898248000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 317,
+            "stars": 316,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -355,10 +355,10 @@
         },
         {
             "id": "libsecure_storage",
-            "last_update": 1695587399000,
+            "last_update": 1696896902000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/libsecure_storage/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/libsecure_storage/master/module.prop",
-            "stars": 8,
+            "stars": 9,
             "zip_url": "https://github.com/Magisk-Modules-Repo/libsecure_storage/archive/master.zip"
         },
         {
