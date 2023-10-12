@@ -251,10 +251,10 @@
         },
         {
             "id": "ExSDCard",
-            "last_update": 1694012015000,
+            "last_update": 1697077840000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ExSDCard/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ExSDCard/master/module.prop",
-            "stars": 43,
+            "stars": 44,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/master.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1696992046000,
+            "last_update": 1697077457000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 512,
+            "stars": 511,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
