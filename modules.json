@@ -691,26 +691,26 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1697847219000,
+            "last_update": 1698003813000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 371,
+            "stars": 370,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
             "id": "ViPER4AndroidFX-Legacy",
-            "last_update": 1689369142000,
+            "last_update": 1698003782000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/master/module.prop",
-            "stars": 30,
+            "stars": 29,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/archive/master.zip"
         },
         {
             "id": "ViPER4AndroidXHiFi",
-            "last_update": 1686515096000,
+            "last_update": 1698003726000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/master/module.prop",
-            "stars": 4,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/archive/master.zip"
         },
         {
