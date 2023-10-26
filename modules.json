@@ -107,10 +107,10 @@
         },
         {
             "id": "ARCore_enabler",
-            "last_update": 1692651525000,
+            "last_update": 1698307915000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ARCore_enabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ARCore_enabler/master/module.prop",
-            "stars": 63,
+            "stars": 64,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ARCore_enabler/archive/master.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1698054580000,
+            "last_update": 1698306829000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 520,
+            "stars": 521,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
