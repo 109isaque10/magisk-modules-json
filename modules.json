@@ -323,18 +323,18 @@
         },
         {
             "id": "IPControl",
-            "last_update": 1695006907000,
+            "last_update": 1698292898000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/module.prop",
-            "stars": 58,
+            "stars": 59,
             "zip_url": "https://github.com/Magisk-Modules-Repo/IPControl/archive/master.zip"
         },
         {
             "id": "KaliNethunter",
-            "last_update": 1698113787000,
+            "last_update": 1698292431000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/module.prop",
-            "stars": 227,
+            "stars": 228,
             "zip_url": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip"
         },
         {
@@ -683,10 +683,10 @@
         },
         {
             "id": "v2ray",
-            "last_update": 1697622034000,
+            "last_update": 1698292612000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/module.prop",
-            "stars": 317,
+            "stars": 318,
             "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip"
         },
         {
