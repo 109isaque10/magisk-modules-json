@@ -211,10 +211,10 @@
         },
         {
             "id": "Detach",
-            "last_update": 1698118539000,
+            "last_update": 1698398558000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/module.prop",
-            "stars": 219,
+            "stars": 220,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1698347526000,
+            "last_update": 1698398548000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 522,
+            "stars": 523,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
