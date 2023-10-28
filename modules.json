@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1698423747000,
+            "last_update": 1698462909000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 755,
+            "stars": 756,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -259,10 +259,10 @@
         },
         {
             "id": "Fdroid-Priv",
-            "last_update": 1696995933000,
+            "last_update": 1698464117000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/module.prop",
-            "stars": 114,
+            "stars": 115,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/master.zip"
         },
         {
