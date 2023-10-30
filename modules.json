@@ -3,10 +3,10 @@
     "modules": [
         {
             "id": "acc",
-            "last_update": 1697991153000,
+            "last_update": 1698689619000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/module.prop",
-            "stars": 285,
+            "stars": 286,
             "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip"
         },
         {
@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1698478222000,
+            "last_update": 1698688416000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 334,
+            "stars": 335,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -115,10 +115,10 @@
         },
         {
             "id": "ASUS-Style-Suite",
-            "last_update": 1687220175000,
+            "last_update": 1698688650000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ASUS-Style-Suite/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ASUS-Style-Suite/master/module.prop",
-            "stars": 5,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite/archive/master.zip"
         },
         {
@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1698571531000,
+            "last_update": 1698688443000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 758,
+            "stars": 759,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -371,10 +371,10 @@
         },
         {
             "id": "magisk-drm-disabler",
-            "last_update": 1698448841000,
+            "last_update": 1698688541000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/module.prop",
-            "stars": 46,
+            "stars": 47,
             "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/master.zip"
         },
         {
@@ -467,10 +467,10 @@
         },
         {
             "id": "noneDisplayCutout",
-            "last_update": 1694051964000,
+            "last_update": 1698687388000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/noneDisplayCutout/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/noneDisplayCutout/master/module.prop",
-            "stars": 25,
+            "stars": 26,
             "zip_url": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/archive/master.zip"
         },
         {
@@ -667,10 +667,10 @@
         },
         {
             "id": "twrp-helper",
-            "last_update": 1696752104000,
+            "last_update": 1698688630000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/module.prop",
-            "stars": 24,
+            "stars": 25,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-helper/archive/master.zip"
         },
         {
@@ -747,10 +747,10 @@
         },
         {
             "id": "wirelessFirmware",
-            "last_update": 1695731652000,
+            "last_update": 1698688562000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/module.prop",
-            "stars": 31,
+            "stars": 32,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip"
         },
         {
