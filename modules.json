@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1698843680000,
+            "last_update": 1698885724000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 336,
+            "stars": 335,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -43,10 +43,10 @@
         },
         {
             "id": "adreno-dev",
-            "last_update": 1696641260000,
+            "last_update": 1698885724000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/module.prop",
-            "stars": 67,
+            "stars": 66,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/master.zip"
         },
         {
@@ -107,10 +107,10 @@
         },
         {
             "id": "ARCore_enabler",
-            "last_update": 1698307915000,
+            "last_update": 1698882691000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ARCore_enabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ARCore_enabler/master/module.prop",
-            "stars": 64,
+            "stars": 65,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ARCore_enabler/archive/master.zip"
         },
         {
@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1698688443000,
+            "last_update": 1698885724000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 759,
+            "stars": 758,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -163,18 +163,18 @@
         },
         {
             "id": "ccbins",
-            "last_update": 1698527224000,
+            "last_update": 1698885739000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/module.prop",
-            "stars": 94,
+            "stars": 93,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip"
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1698112445000,
+            "last_update": 1698885728000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/module.prop",
-            "stars": 100,
+            "stars": 99,
             "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1698878613000,
+            "last_update": 1698885728000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1807,
+            "stars": 1806,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1698794942000,
+            "last_update": 1698885729000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 526,
+            "stars": 525,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
@@ -547,10 +547,10 @@
         },
         {
             "id": "riru-core",
-            "last_update": 1698652076000,
+            "last_update": 1698885733000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/module.prop",
-            "stars": 144,
+            "stars": 143,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/master.zip"
         },
         {
@@ -579,10 +579,10 @@
         },
         {
             "id": "riru_storage_redirect",
-            "last_update": 1696751731000,
+            "last_update": 1698885735000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/module.prop",
-            "stars": 56,
+            "stars": 55,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/master.zip"
         },
         {
@@ -619,10 +619,10 @@
         },
         {
             "id": "ssh",
-            "last_update": 1697688171000,
+            "last_update": 1698885729000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/module.prop",
-            "stars": 153,
+            "stars": 152,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip"
         },
         {
@@ -755,10 +755,10 @@
         },
         {
             "id": "xmlpak",
-            "last_update": 1698448753000,
+            "last_update": 1698885733000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/module.prop",
-            "stars": 142,
+            "stars": 141,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip"
         },
         {
@@ -779,10 +779,10 @@
         },
         {
             "id": "zipsigner",
-            "last_update": 1698064395000,
+            "last_update": 1698885733000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/module.prop",
-            "stars": 54,
+            "stars": 53,
             "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip"
         },
         {
