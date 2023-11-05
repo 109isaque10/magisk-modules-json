@@ -67,10 +67,10 @@
         },
         {
             "id": "airaudio",
-            "last_update": 1690456423000,
+            "last_update": 1699196731000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airaudio/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airaudio/master/module.prop",
-            "stars": 19,
+            "stars": 20,
             "zip_url": "https://github.com/Magisk-Modules-Repo/airaudio/archive/master.zip"
         },
         {
@@ -243,7 +243,7 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1699141197000,
+            "last_update": 1699195462000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
             "stars": 275,
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1699191220000,
+            "last_update": 1699195284000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1811,
+            "stars": 1812,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -635,10 +635,10 @@
         },
         {
             "id": "tcpdump_static_aarch64",
-            "last_update": 1694011951000,
+            "last_update": 1699196939000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64/archive/master.zip"
         },
         {
