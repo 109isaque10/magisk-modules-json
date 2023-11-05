@@ -171,18 +171,18 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1698885728000,
+            "last_update": 1699141432000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/module.prop",
-            "stars": 99,
+            "stars": 100,
             "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/master.zip"
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1696932557000,
+            "last_update": 1699141618000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
-            "stars": 41,
+            "stars": 42,
             "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip"
         },
         {
@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1699132243000,
+            "last_update": 1699141197000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 274,
+            "stars": 275,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1699104579000,
+            "last_update": 1699140540000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1808,
+            "stars": 1809,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -475,10 +475,10 @@
         },
         {
             "id": "OneController",
-            "last_update": 1698848196000,
+            "last_update": 1699141369000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
-            "stars": 191,
+            "stars": 192,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip"
         },
         {
@@ -507,10 +507,10 @@
         },
         {
             "id": "Oxy-ify",
-            "last_update": 1692615242000,
+            "last_update": 1699141573000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/module.prop",
-            "stars": 26,
+            "stars": 27,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Oxy-ify/archive/master.zip"
         },
         {
