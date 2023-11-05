@@ -155,10 +155,10 @@
         },
         {
             "id": "callrecorder-skvalex",
-            "last_update": 1699100308000,
+            "last_update": 1699199970000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/module.prop",
-            "stars": 283,
+            "stars": 284,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip"
         },
         {
@@ -291,10 +291,10 @@
         },
         {
             "id": "HEVCEnabler",
-            "last_update": 1683110139000,
+            "last_update": 1699197229000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HEVCEnabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HEVCEnabler/master/module.prop",
-            "stars": 14,
+            "stars": 15,
             "zip_url": "https://github.com/Magisk-Modules-Repo/HEVCEnabler/archive/master.zip"
         },
         {
@@ -331,10 +331,10 @@
         },
         {
             "id": "KaliNethunter",
-            "last_update": 1698649646000,
+            "last_update": 1699199518000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/module.prop",
-            "stars": 229,
+            "stars": 228,
             "zip_url": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip"
         },
         {
