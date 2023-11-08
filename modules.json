@@ -595,18 +595,18 @@
         },
         {
             "id": "sony-device-dummy",
-            "last_update": 1697132153000,
+            "last_update": 1699413960000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sony-device-dummy/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sony-device-dummy/master/module.prop",
-            "stars": 17,
+            "stars": 18,
             "zip_url": "https://github.com/Magisk-Modules-Repo/sony-device-dummy/archive/master.zip"
         },
         {
             "id": "sonymusic",
-            "last_update": 1694011984000,
+            "last_update": 1699413882000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Repo/sonymusic/archive/master.zip"
         },
         {
