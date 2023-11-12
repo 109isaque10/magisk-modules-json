@@ -259,7 +259,7 @@
         },
         {
             "id": "Fdroid-Priv",
-            "last_update": 1699533963000,
+            "last_update": 1699827834000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/module.prop",
             "stars": 118,
@@ -331,10 +331,10 @@
         },
         {
             "id": "KaliNethunter",
-            "last_update": 1699679244000,
+            "last_update": 1699827783000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/module.prop",
-            "stars": 232,
+            "stars": 233,
             "zip_url": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip"
         },
         {
@@ -619,10 +619,10 @@
         },
         {
             "id": "ssh",
-            "last_update": 1699746821000,
+            "last_update": 1699827813000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/module.prop",
-            "stars": 155,
+            "stars": 156,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip"
         },
         {
