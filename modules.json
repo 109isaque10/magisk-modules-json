@@ -427,10 +427,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1699926191000,
+            "last_update": 1699975074000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 531,
+            "stars": 532,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
