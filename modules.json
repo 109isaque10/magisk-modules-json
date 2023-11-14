@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1699942593000,
+            "last_update": 1699957586000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 345,
+            "stars": 344,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -211,10 +211,10 @@
         },
         {
             "id": "Detach",
-            "last_update": 1699940754000,
+            "last_update": 1699958881000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/module.prop",
-            "stars": 225,
+            "stars": 226,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
         },
         {
@@ -283,7 +283,7 @@
         },
         {
             "id": "GoogleDialerFramework",
-            "last_update": 1696621955000,
+            "last_update": 1699958835000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/module.prop",
             "stars": 62,
@@ -323,18 +323,18 @@
         },
         {
             "id": "IPControl",
-            "last_update": 1698292898000,
+            "last_update": 1699959030000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/module.prop",
-            "stars": 59,
+            "stars": 60,
             "zip_url": "https://github.com/Magisk-Modules-Repo/IPControl/archive/master.zip"
         },
         {
             "id": "KaliNethunter",
-            "last_update": 1699827783000,
+            "last_update": 1699958803000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/module.prop",
-            "stars": 233,
+            "stars": 234,
             "zip_url": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1699860981000,
+            "last_update": 1699958675000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 1817,
+            "stars": 1818,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -619,10 +619,10 @@
         },
         {
             "id": "ssh",
-            "last_update": 1699827813000,
+            "last_update": 1699958695000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/module.prop",
-            "stars": 156,
+            "stars": 157,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip"
         },
         {
@@ -651,18 +651,18 @@
         },
         {
             "id": "terminal_debloater",
-            "last_update": 1699816645000,
+            "last_update": 1699958759000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/module.prop",
-            "stars": 199,
+            "stars": 200,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_debloater/archive/master.zip"
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1699191953000,
+            "last_update": 1699959056000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 260,
+            "stars": 261,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
@@ -747,10 +747,10 @@
         },
         {
             "id": "wirelessFirmware",
-            "last_update": 1698688562000,
+            "last_update": 1699958984000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/module.prop",
-            "stars": 32,
+            "stars": 33,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip"
         },
         {
@@ -763,18 +763,18 @@
         },
         {
             "id": "xposed",
-            "last_update": 1699366106000,
+            "last_update": 1699958783000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/module.prop",
-            "stars": 114,
+            "stars": 115,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip"
         },
         {
             "id": "xposed_dalvik",
-            "last_update": 1698865310000,
+            "last_update": 1699959047000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed_dalvik/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed_dalvik/master/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/archive/master.zip"
         },
         {
