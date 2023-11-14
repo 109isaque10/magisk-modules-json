@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1699957586000,
+            "last_update": 1699969560000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 344,
+            "stars": 343,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -131,18 +131,18 @@
         },
         {
             "id": "BluetoothLibraryPatcher",
-            "last_update": 1695899419000,
+            "last_update": 1699970328000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/module.prop",
-            "stars": 39,
+            "stars": 40,
             "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/master.zip"
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1699938923000,
+            "last_update": 1699969612000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 768,
+            "stars": 767,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
