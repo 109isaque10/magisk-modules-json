@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1727667132000,
+            "last_update": 1727690193000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 470,
+            "stars": 471,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -280,6 +280,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
             "stars": 395,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
+        },
+        {
+            "id": "GoogleDialerFramework",
+            "last_update": 1724939698000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/module.prop",
+            "stars": 66,
+            "zip_url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/master.zip"
         },
         {
             "id": "HEVCEnabler",
