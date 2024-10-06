@@ -155,10 +155,10 @@
         },
         {
             "id": "callrecorder-skvalex",
-            "last_update": 1728157357000,
+            "last_update": 1728236325000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/module.prop",
-            "stars": 324,
+            "stars": 325,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip"
         },
         {
@@ -299,10 +299,10 @@
         },
         {
             "id": "hidden_settings",
-            "last_update": 1725255542000,
+            "last_update": 1728236806000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/hidden_settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/hidden_settings/master/module.prop",
-            "stars": 38,
+            "stars": 39,
             "zip_url": "https://github.com/Magisk-Modules-Repo/hidden_settings/archive/master.zip"
         },
         {
