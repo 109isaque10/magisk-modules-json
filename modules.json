@@ -11,10 +11,10 @@
         },
         {
             "id": "acp",
-            "last_update": 1727635723000,
+            "last_update": 1728308076000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/module.prop",
-            "stars": 95,
+            "stars": 96,
             "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/master.zip"
         },
         {
@@ -171,10 +171,10 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1727978697000,
+            "last_update": 1728309017000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/module.prop",
-            "stars": 124,
+            "stars": 123,
             "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/master.zip"
         },
         {
