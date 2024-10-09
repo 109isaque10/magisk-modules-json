@@ -43,10 +43,10 @@
         },
         {
             "id": "adreno-dev",
-            "last_update": 1726899446000,
+            "last_update": 1728434808000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/module.prop",
-            "stars": 75,
+            "stars": 76,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/master.zip"
         },
         {
@@ -131,10 +131,10 @@
         },
         {
             "id": "BluetoothLibraryPatcher",
-            "last_update": 1726069310000,
+            "last_update": 1728432285000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/module.prop",
-            "stars": 43,
+            "stars": 44,
             "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/master.zip"
         },
         {
