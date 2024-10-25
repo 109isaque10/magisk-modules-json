@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1729829113000,
+            "last_update": 1729860140000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 401,
+            "stars": 400,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -579,10 +579,10 @@
         },
         {
             "id": "riru_storage_redirect",
-            "last_update": 1722008028000,
+            "last_update": 1729859229000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/module.prop",
-            "stars": 61,
+            "stars": 62,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/master.zip"
         },
         {
@@ -675,10 +675,10 @@
         },
         {
             "id": "twrp-keep",
-            "last_update": 1729781917000,
+            "last_update": 1729860140000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
-            "stars": 202,
+            "stars": 201,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
         },
         {
