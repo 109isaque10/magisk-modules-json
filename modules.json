@@ -235,10 +235,10 @@
         },
         {
             "id": "djs",
-            "last_update": 1728322216000,
+            "last_update": 1730189688000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/djs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/djs/master/module.prop",
-            "stars": 44,
+            "stars": 45,
             "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/master.zip"
         },
         {
@@ -427,7 +427,7 @@
         },
         {
             "id": "movecert",
-            "last_update": 1729419556000,
+            "last_update": 1730187105000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
             "stars": 680,
