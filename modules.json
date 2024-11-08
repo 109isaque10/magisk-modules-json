@@ -35,10 +35,10 @@
         },
         {
             "id": "adreno-630-gpu-driver",
-            "last_update": 1723636344000,
+            "last_update": 1731032320000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-630-gpu-driver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-630-gpu-driver/master/module.prop",
-            "stars": 19,
+            "stars": 20,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1730980806000,
+            "last_update": 1731034461000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 2010,
+            "stars": 2011,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
