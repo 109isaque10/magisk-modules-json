@@ -347,10 +347,10 @@
         },
         {
             "id": "liboemcryptodisabler",
-            "last_update": 1730691797000,
+            "last_update": 1731304312000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/module.prop",
-            "stars": 116,
+            "stars": 115,
             "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/master.zip"
         },
         {
@@ -419,10 +419,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1731223543000,
+            "last_update": 1731304312000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 681,
+            "stars": 680,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
