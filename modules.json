@@ -731,10 +731,10 @@
         },
         {
             "id": "wifi5ghzdisabler",
-            "last_update": 1722501683000,
+            "last_update": 1732000511000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi5ghzdisabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi5ghzdisabler/master/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/archive/master.zip"
         },
         {
