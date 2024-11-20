@@ -467,10 +467,10 @@
         },
         {
             "id": "OneController",
-            "last_update": 1729806144000,
+            "last_update": 1732067369000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
-            "stars": 216,
+            "stars": 217,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip"
         },
         {
@@ -611,10 +611,10 @@
         },
         {
             "id": "ssh",
-            "last_update": 1731811053000,
+            "last_update": 1732065124000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/module.prop",
-            "stars": 180,
+            "stars": 181,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip"
         },
         {
