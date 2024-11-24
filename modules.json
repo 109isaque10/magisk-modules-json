@@ -419,10 +419,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1732208495000,
+            "last_update": 1732446315000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 681,
+            "stars": 682,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
@@ -747,10 +747,10 @@
         },
         {
             "id": "xmlpak",
-            "last_update": 1731090121000,
+            "last_update": 1732445733000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/module.prop",
-            "stars": 176,
+            "stars": 177,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip"
         },
         {
