@@ -651,10 +651,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1731801267000,
+            "last_update": 1732813294000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 331,
+            "stars": 332,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
