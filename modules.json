@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1732809807000,
+            "last_update": 1732828074000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 489,
+            "stars": 488,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -67,7 +67,7 @@
         },
         {
             "id": "airmusic",
-            "last_update": 1732420940000,
+            "last_update": 1732825808000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airmusic/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airmusic/master/module.prop",
             "stars": 31,
@@ -187,7 +187,7 @@
         },
         {
             "id": "com.catchingnow.icebox",
-            "last_update": 1703554046000,
+            "last_update": 1732825793000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.catchingnow.icebox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.catchingnow.icebox/master/module.prop",
             "stars": 12,
@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1732225432000,
+            "last_update": 1732828099000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 323,
+            "stars": 322,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -259,10 +259,10 @@
         },
         {
             "id": "Fdroid-Priv",
-            "last_update": 1731701707000,
+            "last_update": 1732828175000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/module.prop",
-            "stars": 130,
+            "stars": 129,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/master.zip"
         },
         {
@@ -387,7 +387,7 @@
         },
         {
             "id": "miracast-enabler",
-            "last_update": 1727071081000,
+            "last_update": 1732825801000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/module.prop",
             "stars": 23,
@@ -419,10 +419,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1732446315000,
+            "last_update": 1732828137000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 682,
+            "stars": 681,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
@@ -467,10 +467,10 @@
         },
         {
             "id": "OneController",
-            "last_update": 1732147276000,
+            "last_update": 1732828150000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
-            "stars": 218,
+            "stars": 217,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip"
         },
         {
@@ -491,10 +491,10 @@
         },
         {
             "id": "overlayfix",
-            "last_update": 1703670105000,
+            "last_update": 1732826779000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/master.zip"
         },
         {
