@@ -67,10 +67,10 @@
         },
         {
             "id": "airmusic",
-            "last_update": 1732825808000,
+            "last_update": 1732828241000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airmusic/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airmusic/master/module.prop",
-            "stars": 31,
+            "stars": 30,
             "zip_url": "https://github.com/Magisk-Modules-Repo/airmusic/archive/master.zip"
         },
         {
@@ -187,10 +187,10 @@
         },
         {
             "id": "com.catchingnow.icebox",
-            "last_update": 1732825793000,
+            "last_update": 1732828263000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.catchingnow.icebox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.catchingnow.icebox/master/module.prop",
-            "stars": 12,
+            "stars": 11,
             "zip_url": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox/archive/master.zip"
         },
         {
@@ -387,10 +387,10 @@
         },
         {
             "id": "miracast-enabler",
-            "last_update": 1732825801000,
+            "last_update": 1732828254000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/module.prop",
-            "stars": 23,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Repo/miracast-enabler/archive/master.zip"
         },
         {
