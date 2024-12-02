@@ -123,10 +123,10 @@
         },
         {
             "id": "benchkit",
-            "last_update": 1731193424000,
+            "last_update": 1733153978000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/benchkit/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/benchkit/master/module.prop",
-            "stars": 69,
+            "stars": 70,
             "zip_url": "https://github.com/Magisk-Modules-Repo/benchkit/archive/master.zip"
         },
         {
