@@ -59,10 +59,10 @@
         },
         {
             "id": "ainur_narsil",
-            "last_update": 1732474811000,
+            "last_update": 1733147621000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/module.prop",
-            "stars": 126,
+            "stars": 127,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_narsil/archive/master.zip"
         },
         {
@@ -283,10 +283,10 @@
         },
         {
             "id": "GoogleDialerFramework",
-            "last_update": 1732028499000,
+            "last_update": 1733145831000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/module.prop",
-            "stars": 68,
+            "stars": 69,
             "zip_url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/master.zip"
         },
         {
