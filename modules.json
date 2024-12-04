@@ -171,10 +171,10 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1731205655000,
+            "last_update": 1733274539000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/module.prop",
-            "stars": 125,
+            "stars": 126,
             "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/master.zip"
         },
         {
