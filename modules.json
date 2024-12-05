@@ -19,10 +19,10 @@
         },
         {
             "id": "active_edge_system_mod",
-            "last_update": 1696613052000,
+            "last_update": 1733390230000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/active_edge_system_mod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/active_edge_system_mod/master/module.prop",
-            "stars": 48,
+            "stars": 47,
             "zip_url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/master.zip"
         },
         {
@@ -171,10 +171,10 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1733274539000,
+            "last_update": 1733390232000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/module.prop",
-            "stars": 126,
+            "stars": 123,
             "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/master.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "mtd-ndk",
-            "last_update": 1731172723000,
+            "last_update": 1733390246000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/module.prop",
-            "stars": 56,
+            "stars": 55,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip"
         },
         {
@@ -755,10 +755,10 @@
         },
         {
             "id": "xposed",
-            "last_update": 1732332253000,
+            "last_update": 1733390242000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/module.prop",
-            "stars": 126,
+            "stars": 124,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip"
         },
         {
