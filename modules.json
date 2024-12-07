@@ -235,10 +235,10 @@
         },
         {
             "id": "djs",
-            "last_update": 1730189688000,
+            "last_update": 1733593028000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/djs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/djs/master/module.prop",
-            "stars": 45,
+            "stars": 46,
             "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/master.zip"
         },
         {
@@ -715,10 +715,10 @@
         },
         {
             "id": "WDAnimationcxair",
-            "last_update": 1728711170000,
+            "last_update": 1733592928000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/WDAnimationcxair/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/WDAnimationcxair/master/module.prop",
-            "stars": 35,
+            "stars": 36,
             "zip_url": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/archive/master.zip"
         },
         {
