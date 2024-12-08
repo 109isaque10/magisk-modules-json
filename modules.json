@@ -771,10 +771,10 @@
         },
         {
             "id": "zipsigner",
-            "last_update": 1727632195000,
+            "last_update": 1733666154000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/module.prop",
-            "stars": 69,
+            "stars": 70,
             "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip"
         },
         {
