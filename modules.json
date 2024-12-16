@@ -659,10 +659,10 @@
         },
         {
             "id": "twrp-helper",
-            "last_update": 1724618244000,
+            "last_update": 1734320870000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/module.prop",
-            "stars": 31,
+            "stars": 32,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-helper/archive/master.zip"
         },
         {
