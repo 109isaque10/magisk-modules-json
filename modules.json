@@ -491,10 +491,10 @@
         },
         {
             "id": "overlayfix",
-            "last_update": 1732826779000,
+            "last_update": 1734723550000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/module.prop",
-            "stars": 24,
+            "stars": 25,
             "zip_url": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/master.zip"
         },
         {
