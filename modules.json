@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1734418355000,
+            "last_update": 1735022008000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 498,
+            "stars": 499,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -723,10 +723,10 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1734480948000,
+            "last_update": 1735023980000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
-            "stars": 624,
+            "stars": 625,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip"
         },
         {
