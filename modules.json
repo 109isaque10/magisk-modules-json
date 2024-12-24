@@ -427,10 +427,10 @@
         },
         {
             "id": "mtd-ndk",
-            "last_update": 1734050962000,
+            "last_update": 1735056586000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/module.prop",
-            "stars": 56,
+            "stars": 57,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip"
         },
         {
@@ -499,10 +499,10 @@
         },
         {
             "id": "Oxy-ify",
-            "last_update": 1733498186000,
+            "last_update": 1735053627000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/module.prop",
-            "stars": 32,
+            "stars": 31,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Oxy-ify/archive/master.zip"
         },
         {
@@ -723,10 +723,10 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1735023980000,
+            "last_update": 1735056662000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
-            "stars": 625,
+            "stars": 626,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip"
         },
         {
