@@ -155,10 +155,10 @@
         },
         {
             "id": "callrecorder-skvalex",
-            "last_update": 1735000086000,
+            "last_update": 1735250404000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/module.prop",
-            "stars": 341,
+            "stars": 342,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip"
         },
         {
@@ -667,10 +667,10 @@
         },
         {
             "id": "twrp-keep",
-            "last_update": 1734294654000,
+            "last_update": 1735249782000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
-            "stars": 211,
+            "stars": 212,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
         },
         {
