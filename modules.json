@@ -11,10 +11,10 @@
         },
         {
             "id": "acp",
-            "last_update": 1735559277000,
+            "last_update": 1736847582000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/module.prop",
-            "stars": 108,
+            "stars": 109,
             "zip_url": "https://github.com/Magisk-Modules-Repo/acp/archive/master.zip"
         },
         {
@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1736522773000,
+            "last_update": 1736847182000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 502,
+            "stars": 503,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
