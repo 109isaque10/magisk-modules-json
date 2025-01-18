@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1736755632000,
+            "last_update": 1737163145000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 322,
+            "stars": 323,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -331,10 +331,10 @@
         },
         {
             "id": "KaliNethunter",
-            "last_update": 1737077111000,
+            "last_update": 1737162974000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/module.prop",
-            "stars": 335,
+            "stars": 336,
             "zip_url": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip"
         },
         {
@@ -451,10 +451,10 @@
         },
         {
             "id": "NFCScreenOff",
-            "last_update": 1735952617000,
+            "last_update": 1737162726000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/module.prop",
-            "stars": 49,
+            "stars": 50,
             "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/master.zip"
         },
         {
@@ -467,10 +467,10 @@
         },
         {
             "id": "OneController",
-            "last_update": 1735842729000,
+            "last_update": 1737162775000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/module.prop",
-            "stars": 220,
+            "stars": 221,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip"
         },
         {
@@ -723,10 +723,10 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1737078871000,
+            "last_update": 1737163065000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
-            "stars": 631,
+            "stars": 632,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip"
         },
         {
@@ -739,10 +739,10 @@
         },
         {
             "id": "wirelessFirmware",
-            "last_update": 1736602843000,
+            "last_update": 1737164558000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/module.prop",
-            "stars": 50,
+            "stars": 51,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip"
         },
         {
