@@ -643,10 +643,10 @@
         },
         {
             "id": "terminal_debloater",
-            "last_update": 1735614325000,
+            "last_update": 1737554369000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/module.prop",
-            "stars": 233,
+            "stars": 234,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_debloater/archive/master.zip"
         },
         {
