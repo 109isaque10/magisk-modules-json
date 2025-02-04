@@ -571,10 +571,10 @@
         },
         {
             "id": "riru_storage_redirect",
-            "last_update": 1729859229000,
+            "last_update": 1738678580000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/module.prop",
-            "stars": 62,
+            "stars": 61,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/master.zip"
         },
         {
