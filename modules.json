@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1740042231000,
+            "last_update": 1740053038000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 512,
+            "stars": 513,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -499,10 +499,10 @@
         },
         {
             "id": "Oxy-ify",
-            "last_update": 1737279646000,
+            "last_update": 1740050682000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/module.prop",
-            "stars": 32,
+            "stars": 33,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Oxy-ify/archive/master.zip"
         },
         {
