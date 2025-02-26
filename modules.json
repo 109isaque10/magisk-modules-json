@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1739871850000,
+            "last_update": 1740541291000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 415,
+            "stars": 416,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -347,10 +347,10 @@
         },
         {
             "id": "liboemcryptodisabler",
-            "last_update": 1740496826000,
+            "last_update": 1740542741000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/module.prop",
-            "stars": 122,
+            "stars": 123,
             "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/master.zip"
         },
         {
