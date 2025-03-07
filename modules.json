@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1741066906000,
+            "last_update": 1741369986000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 517,
+            "stars": 518,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -163,10 +163,10 @@
         },
         {
             "id": "ccbins",
-            "last_update": 1741341208000,
+            "last_update": 1741370818000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/module.prop",
-            "stars": 117,
+            "stars": 118,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip"
         },
         {
@@ -651,10 +651,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1740979247000,
+            "last_update": 1741370013000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 349,
+            "stars": 350,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
