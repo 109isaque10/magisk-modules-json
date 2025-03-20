@@ -155,10 +155,10 @@
         },
         {
             "id": "callrecorder-skvalex",
-            "last_update": 1741930535000,
+            "last_update": 1742476798000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/module.prop",
-            "stars": 348,
+            "stars": 347,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip"
         },
         {
@@ -211,10 +211,10 @@
         },
         {
             "id": "Detach",
-            "last_update": 1739877366000,
+            "last_update": 1742476798000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/module.prop",
-            "stars": 254,
+            "stars": 252,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
         },
         {
