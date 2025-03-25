@@ -163,18 +163,18 @@
         },
         {
             "id": "ccbins",
-            "last_update": 1741370818000,
+            "last_update": 1742918946000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/module.prop",
-            "stars": 118,
+            "stars": 119,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip"
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1741341192000,
+            "last_update": 1742918935000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/module.prop",
-            "stars": 126,
+            "stars": 127,
             "zip_url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/master.zip"
         },
         {
@@ -283,10 +283,10 @@
         },
         {
             "id": "GoogleDialerFramework",
-            "last_update": 1735057218000,
+            "last_update": 1742918936000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/module.prop",
-            "stars": 70,
+            "stars": 71,
             "zip_url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/master.zip"
         },
         {
@@ -323,10 +323,10 @@
         },
         {
             "id": "IPControl",
-            "last_update": 1739403058000,
+            "last_update": 1742918940000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/module.prop",
-            "stars": 76,
+            "stars": 77,
             "zip_url": "https://github.com/Magisk-Modules-Repo/IPControl/archive/master.zip"
         },
         {
@@ -435,10 +435,10 @@
         },
         {
             "id": "nano-ndk",
-            "last_update": 1741855901000,
+            "last_update": 1742918931000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/module.prop",
-            "stars": 149,
+            "stars": 150,
             "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip"
         },
         {
@@ -651,10 +651,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1742116842000,
+            "last_update": 1742918930000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 352,
+            "stars": 353,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
@@ -715,10 +715,10 @@
         },
         {
             "id": "WDAnimationcxair",
-            "last_update": 1735008951000,
+            "last_update": 1742918944000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/WDAnimationcxair/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/WDAnimationcxair/master/module.prop",
-            "stars": 37,
+            "stars": 38,
             "zip_url": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/archive/master.zip"
         },
         {
@@ -747,10 +747,10 @@
         },
         {
             "id": "xmlpak",
-            "last_update": 1741003538000,
+            "last_update": 1742918941000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/module.prop",
-            "stars": 179,
+            "stars": 180,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip"
         },
         {
@@ -771,10 +771,10 @@
         },
         {
             "id": "zipsigner",
-            "last_update": 1741296052000,
+            "last_update": 1742918941000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/module.prop",
-            "stars": 73,
+            "stars": 74,
             "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip"
         },
         {
