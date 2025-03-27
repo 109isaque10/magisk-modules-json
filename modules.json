@@ -3,10 +3,10 @@
     "modules": [
         {
             "id": "acc",
-            "last_update": 1742993274000,
+            "last_update": 1743096984000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/module.prop",
-            "stars": 333,
+            "stars": 334,
             "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip"
         },
         {
@@ -667,7 +667,7 @@
         },
         {
             "id": "twrp-keep",
-            "last_update": 1741879474000,
+            "last_update": 1743096129000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
             "stars": 219,
