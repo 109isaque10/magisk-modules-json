@@ -427,7 +427,7 @@
         },
         {
             "id": "mtd-ndk",
-            "last_update": 1743484281000,
+            "last_update": 1743640784000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/module.prop",
             "stars": 59,
@@ -435,7 +435,7 @@
         },
         {
             "id": "nano-ndk",
-            "last_update": 1743484241000,
+            "last_update": 1743640819000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/module.prop",
             "stars": 151,
@@ -755,10 +755,10 @@
         },
         {
             "id": "xposed",
-            "last_update": 1741782513000,
+            "last_update": 1743635987000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/module.prop",
-            "stars": 129,
+            "stars": 128,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip"
         },
         {
