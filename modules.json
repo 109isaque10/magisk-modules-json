@@ -403,10 +403,10 @@
         },
         {
             "id": "mm",
-            "last_update": 1734050000000,
+            "last_update": 1744579350000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mm/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mm/master/module.prop",
-            "stars": 160,
+            "stars": 159,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mm/archive/master.zip"
         },
         {
