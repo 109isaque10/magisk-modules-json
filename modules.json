@@ -475,10 +475,10 @@
         },
         {
             "id": "OneUISounds",
-            "last_update": 1741115909000,
+            "last_update": 1745100957000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneUISounds/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneUISounds/master/module.prop",
-            "stars": 7,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Repo/OneUISounds/archive/master.zip"
         },
         {
@@ -683,10 +683,10 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1745021811000,
+            "last_update": 1745102742000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 413,
+            "stars": 414,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
