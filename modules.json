@@ -75,10 +75,10 @@
         },
         {
             "id": "aml",
-            "last_update": 1738003246000,
+            "last_update": 1747434467000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/module.prop",
-            "stars": 51,
+            "stars": 52,
             "zip_url": "https://github.com/Magisk-Modules-Repo/aml/archive/master.zip"
         },
         {
@@ -91,10 +91,10 @@
         },
         {
             "id": "AppOpsPlugin",
-            "last_update": 1731613171000,
+            "last_update": 1747434712000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/AppOpsPlugin/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/AppOpsPlugin/master/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin/archive/master.zip"
         },
         {
@@ -147,26 +147,26 @@
         },
         {
             "id": "callrecorder-axet",
-            "last_update": 1747130993000,
+            "last_update": 1747434751000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-axet/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-axet/master/module.prop",
-            "stars": 76,
+            "stars": 77,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-axet/archive/master.zip"
         },
         {
             "id": "callrecorder-skvalex",
-            "last_update": 1746918146000,
+            "last_update": 1747434632000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/module.prop",
-            "stars": 356,
+            "stars": 357,
             "zip_url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip"
         },
         {
             "id": "ccbins",
-            "last_update": 1746603940000,
+            "last_update": 1747434759000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/module.prop",
-            "stars": 120,
+            "stars": 121,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip"
         },
         {
@@ -187,18 +187,18 @@
         },
         {
             "id": "com.catchingnow.icebox",
-            "last_update": 1732828263000,
+            "last_update": 1747434651000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.catchingnow.icebox/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.catchingnow.icebox/master/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox/archive/master.zip"
         },
         {
             "id": "com.piyushgarg.rclone",
-            "last_update": 1746725086000,
+            "last_update": 1747434702000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/module.prop",
-            "stars": 252,
+            "stars": 253,
             "zip_url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/master.zip"
         },
         {
@@ -211,18 +211,18 @@
         },
         {
             "id": "Detach",
-            "last_update": 1746319651000,
+            "last_update": 1747434626000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/module.prop",
-            "stars": 251,
+            "stars": 252,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip"
         },
         {
             "id": "disable-mdnsd",
-            "last_update": 1694011947000,
+            "last_update": 1747434689000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-mdnsd/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-mdnsd/master/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Repo/disable-mdnsd/archive/master.zip"
         },
         {
@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1747223887000,
+            "last_update": 1747434603000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 321,
+            "stars": 322,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -267,10 +267,10 @@
         },
         {
             "id": "foxy-boot",
-            "last_update": 1724267571000,
+            "last_update": 1747434655000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/foxy-boot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/foxy-boot/master/module.prop",
-            "stars": 22,
+            "stars": 23,
             "zip_url": "https://github.com/Magisk-Modules-Repo/foxy-boot/archive/master.zip"
         },
         {
@@ -299,10 +299,10 @@
         },
         {
             "id": "hidden_settings",
-            "last_update": 1740491712000,
+            "last_update": 1747434697000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/hidden_settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/hidden_settings/master/module.prop",
-            "stars": 41,
+            "stars": 42,
             "zip_url": "https://github.com/Magisk-Modules-Repo/hidden_settings/archive/master.zip"
         },
         {
@@ -323,18 +323,18 @@
         },
         {
             "id": "IPControl",
-            "last_update": 1747421655000,
+            "last_update": 1747434644000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/module.prop",
-            "stars": 81,
+            "stars": 82,
             "zip_url": "https://github.com/Magisk-Modules-Repo/IPControl/archive/master.zip"
         },
         {
             "id": "KaliNethunter",
-            "last_update": 1746728630000,
+            "last_update": 1747434582000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/module.prop",
-            "stars": 350,
+            "stars": 351,
             "zip_url": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip"
         },
         {
@@ -363,34 +363,34 @@
         },
         {
             "id": "logcat",
-            "last_update": 1703670101000,
+            "last_update": 1747434662000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/logcat/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/logcat/master/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Repo/logcat/archive/master.zip"
         },
         {
             "id": "magisk-drm-disabler",
-            "last_update": 1746644053000,
+            "last_update": 1747434746000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/module.prop",
-            "stars": 71,
+            "stars": 72,
             "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/master.zip"
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1747303252000,
+            "last_update": 1747434479000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 2076,
+            "stars": 2077,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
             "id": "miracast-enabler",
-            "last_update": 1744942238000,
+            "last_update": 1747434718000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Repo/miracast-enabler/archive/master.zip"
         },
         {
@@ -419,10 +419,10 @@
         },
         {
             "id": "movecert",
-            "last_update": 1746861933000,
+            "last_update": 1747434593000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/module.prop",
-            "stars": 707,
+            "stars": 708,
             "zip_url": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip"
         },
         {
@@ -491,10 +491,10 @@
         },
         {
             "id": "overlayfix",
-            "last_update": 1734723550000,
+            "last_update": 1747434727000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/module.prop",
-            "stars": 25,
+            "stars": 26,
             "zip_url": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/master.zip"
         },
         {
@@ -587,10 +587,10 @@
         },
         {
             "id": "sony-device-dummy",
-            "last_update": 1741264604000,
+            "last_update": 1747434620000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sony-device-dummy/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sony-device-dummy/master/module.prop",
-            "stars": 26,
+            "stars": 27,
             "zip_url": "https://github.com/Magisk-Modules-Repo/sony-device-dummy/archive/master.zip"
         },
         {
@@ -611,18 +611,18 @@
         },
         {
             "id": "ssh",
-            "last_update": 1746931345000,
+            "last_update": 1747434495000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/module.prop",
-            "stars": 193,
+            "stars": 194,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip"
         },
         {
             "id": "Systemless_TZData",
-            "last_update": 1723394173000,
+            "last_update": 1747434432000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/module.prop",
-            "stars": 20,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/master.zip"
         },
         {
@@ -635,10 +635,10 @@
         },
         {
             "id": "terminalmods",
-            "last_update": 1739642797000,
+            "last_update": 1747434507000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminalmods/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminalmods/master/module.prop",
-            "stars": 55,
+            "stars": 56,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminalmods/archive/master.zip"
         },
         {
@@ -651,10 +651,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1746445775000,
+            "last_update": 1747434420000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 361,
+            "stars": 362,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
@@ -683,10 +683,10 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1746725208000,
+            "last_update": 1747434684000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 416,
+            "stars": 417,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
@@ -707,10 +707,10 @@
         },
         {
             "id": "vold-posix",
-            "last_update": 1741187170000,
+            "last_update": 1747434530000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Repo/vold-posix/archive/master.zip"
         },
         {
@@ -747,10 +747,10 @@
         },
         {
             "id": "xmlpak",
-            "last_update": 1744818967000,
+            "last_update": 1747434673000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/module.prop",
-            "stars": 178,
+            "stars": 179,
             "zip_url": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip"
         },
         {
