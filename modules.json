@@ -347,10 +347,10 @@
         },
         {
             "id": "liboemcryptodisabler",
-            "last_update": 1747416294000,
+            "last_update": 1747687546000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/module.prop",
-            "stars": 126,
+            "stars": 127,
             "zip_url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/master.zip"
         },
         {
