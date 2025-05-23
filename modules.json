@@ -667,10 +667,10 @@
         },
         {
             "id": "twrp-keep",
-            "last_update": 1747612219000,
+            "last_update": 1748036187000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
-            "stars": 229,
+            "stars": 230,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
         },
         {
@@ -771,10 +771,10 @@
         },
         {
             "id": "zipsigner",
-            "last_update": 1747787353000,
+            "last_update": 1748037944000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/module.prop",
-            "stars": 76,
+            "stars": 77,
             "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip"
         },
         {
