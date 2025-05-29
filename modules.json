@@ -275,10 +275,10 @@
         },
         {
             "id": "gvisualmod",
-            "last_update": 1748014125000,
+            "last_update": 1748520873000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/module.prop",
-            "stars": 424,
+            "stars": 422,
             "zip_url": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip"
         },
         {
@@ -667,10 +667,10 @@
         },
         {
             "id": "twrp-keep",
-            "last_update": 1748036187000,
+            "last_update": 1748520872000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/module.prop",
-            "stars": 230,
+            "stars": 229,
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
         },
         {
