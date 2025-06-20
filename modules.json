@@ -75,10 +75,10 @@
         },
         {
             "id": "aml",
-            "last_update": 1747434467000,
+            "last_update": 1750415354000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/module.prop",
-            "stars": 52,
+            "stars": 53,
             "zip_url": "https://github.com/Magisk-Modules-Repo/aml/archive/master.zip"
         },
         {
@@ -683,10 +683,10 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "last_update": 1750310062000,
+            "last_update": 1750417038000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/module.prop",
-            "stars": 417,
+            "stars": 418,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip"
         },
         {
