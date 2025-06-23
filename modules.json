@@ -59,10 +59,10 @@
         },
         {
             "id": "ainur_narsil",
-            "last_update": 1750386453000,
+            "last_update": 1750708305000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/module.prop",
-            "stars": 129,
+            "stars": 130,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_narsil/archive/master.zip"
         },
         {
@@ -243,10 +243,10 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1750386459000,
+            "last_update": 1750708311000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
-            "stars": 321,
+            "stars": 322,
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
         },
         {
@@ -371,18 +371,18 @@
         },
         {
             "id": "magisk-drm-disabler",
-            "last_update": 1750386478000,
+            "last_update": 1750708330000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/module.prop",
-            "stars": 71,
+            "stars": 72,
             "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/master.zip"
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1750701714000,
+            "last_update": 1750708308000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 2095,
+            "stars": 2096,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
@@ -499,10 +499,10 @@
         },
         {
             "id": "Oxy-ify",
-            "last_update": 1750386466000,
+            "last_update": 1750708318000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/module.prop",
-            "stars": 33,
+            "stars": 34,
             "zip_url": "https://github.com/Magisk-Modules-Repo/Oxy-ify/archive/master.zip"
         },
         {
@@ -547,10 +547,10 @@
         },
         {
             "id": "riru_edxposed",
-            "last_update": 1750461628000,
+            "last_update": 1750708321000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/module.prop",
-            "stars": 82,
+            "stars": 83,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_edxposed/archive/master.zip"
         },
         {
@@ -715,15 +715,15 @@
         },
         {
             "id": "WDAnimationcxair",
-            "last_update": 1750386472000,
+            "last_update": 1750708324000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/WDAnimationcxair/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/WDAnimationcxair/master/module.prop",
-            "stars": 40,
+            "stars": 41,
             "zip_url": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/archive/master.zip"
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1750703531000,
+            "last_update": 1750708306000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/module.prop",
             "stars": 668,
