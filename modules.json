@@ -427,10 +427,10 @@
         },
         {
             "id": "mtd-ndk",
-            "last_update": 1748214863000,
+            "last_update": 1750945776000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/module.prop",
-            "stars": 59,
+            "stars": 60,
             "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip"
         },
         {
@@ -611,10 +611,10 @@
         },
         {
             "id": "ssh",
-            "last_update": 1750820105000,
+            "last_update": 1750944706000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/module.prop",
-            "stars": 196,
+            "stars": 197,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip"
         },
         {
@@ -635,7 +635,7 @@
         },
         {
             "id": "terminalmods",
-            "last_update": 1747434507000,
+            "last_update": 1750944621000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminalmods/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminalmods/master/module.prop",
             "stars": 56,
