@@ -443,10 +443,10 @@
         },
         {
             "id": "nexusmedia",
-            "last_update": 1745026292000,
+            "last_update": 1751088067000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nexusmedia/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nexusmedia/master/module.prop",
-            "stars": 31,
+            "stars": 32,
             "zip_url": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/master.zip"
         },
         {
