@@ -363,10 +363,10 @@
         },
         {
             "id": "logcat",
-            "last_update": 1747434662000,
+            "last_update": 1751267709000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/logcat/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/logcat/master/module.prop",
-            "stars": 8,
+            "stars": 9,
             "zip_url": "https://github.com/Magisk-Modules-Repo/logcat/archive/master.zip"
         },
         {
