@@ -27,10 +27,10 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1750876265000,
+            "last_update": 1751348336000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
-            "stars": 558,
+            "stars": 559,
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
         },
         {
@@ -643,10 +643,10 @@
         },
         {
             "id": "terminal_debloater",
-            "last_update": 1749029475000,
+            "last_update": 1751348327000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/module.prop",
-            "stars": 244,
+            "stars": 245,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_debloater/archive/master.zip"
         },
         {
