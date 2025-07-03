@@ -67,10 +67,10 @@
         },
         {
             "id": "airmusic",
-            "last_update": 1751413628000,
+            "last_update": 1751579768000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airmusic/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airmusic/master/module.prop",
-            "stars": 40,
+            "stars": 41,
             "zip_url": "https://github.com/Magisk-Modules-Repo/airmusic/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1751542655000,
+            "last_update": 1751579423000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
-            "stars": 2102,
+            "stars": 2103,
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
         },
         {
