@@ -59,10 +59,10 @@
         },
         {
             "id": "ainur_narsil",
-            "last_update": 1750708305000,
+            "last_update": 1752031049000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/module.prop",
-            "stars": 130,
+            "stars": 131,
             "zip_url": "https://github.com/Magisk-Modules-Repo/ainur_narsil/archive/master.zip"
         },
         {
@@ -483,10 +483,10 @@
         },
         {
             "id": "oosbar",
-            "last_update": 1648643145000,
+            "last_update": 1752033705000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/oosbar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/oosbar/master/module.prop",
-            "stars": 8,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Repo/oosbar/archive/master.zip"
         },
         {
