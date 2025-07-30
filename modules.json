@@ -627,10 +627,10 @@
         },
         {
             "id": "tcpdump_static_aarch64",
-            "last_update": 1747419386000,
+            "last_update": 1753837595000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/module.prop",
-            "stars": 10,
+            "stars": 11,
             "zip_url": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64/archive/master.zip"
         },
         {
