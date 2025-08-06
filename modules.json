@@ -139,10 +139,10 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1754385457000,
+            "last_update": 1754441034000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
-            "stars": 1003,
+            "stars": 1004,
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
         },
         {
@@ -435,10 +435,10 @@
         },
         {
             "id": "nano-ndk",
-            "last_update": 1752682545000,
+            "last_update": 1754438264000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/module.prop",
-            "stars": 156,
+            "stars": 157,
             "zip_url": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip"
         },
         {
