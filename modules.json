@@ -331,10 +331,10 @@
         },
         {
             "id": "KaliNethunter",
-            "last_update": 1756045475000,
+            "last_update": 1756887953000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/module.prop",
-            "stars": 377,
+            "stars": 376,
             "zip_url": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip"
         },
         {
@@ -539,10 +539,10 @@
         },
         {
             "id": "riru-core",
-            "last_update": 1752598469000,
+            "last_update": 1756887983000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/module.prop",
-            "stars": 150,
+            "stars": 147,
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/master.zip"
         },
         {
@@ -651,10 +651,10 @@
         },
         {
             "id": "terminal_systemizer",
-            "last_update": 1756882874000,
+            "last_update": 1756887907000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/module.prop",
-            "stars": 388,
+            "stars": 387,
             "zip_url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip"
         },
         {
@@ -739,10 +739,10 @@
         },
         {
             "id": "wirelessFirmware",
-            "last_update": 1756491196000,
+            "last_update": 1756887961000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/module.prop",
-            "stars": 60,
+            "stars": 59,
             "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip"
         },
         {
