@@ -595,10 +595,10 @@
         },
         {
             "id": "sonymusic",
-            "last_update": 1747419102000,
+            "last_update": 1757531425000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Repo/sonymusic/archive/master.zip"
         },
         {
